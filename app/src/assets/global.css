@@ -1,0 +1,21 @@
+#app {
+    font-family: monospace;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-align: center;
+}
+
+.bg-earth-gradient-1 {
+    background: linear-gradient(135deg, #b85c38, #6b8e23);
+    background-size: cover;
+}
+
+.bg-earth-gradient-2 {
+    background: linear-gradient(-55deg, #d19a66, #6b8e23);
+
+    background: linear-gradient(45deg, #e97451, #c4a000);
+}
+
+minh-100 {
+    min-height: 100%
+}

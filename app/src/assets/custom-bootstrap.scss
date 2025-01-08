@@ -1,0 +1,10 @@
+// Step 1: Import Bootstrap's functions and variables
+@import "bootstrap/scss/functions";
+@import "bootstrap/scss/variables";
+
+// Step 2: Override Bootstrap variables before loading the rest of Bootstrap
+$primary: #d19a66;  // Replace with your custom primary color
+$secondary: #6b8e23; // Replace with your custom secondary color
+
+// Step 3: Import the rest of Bootstrap
+@import "bootstrap/scss/bootstrap";
