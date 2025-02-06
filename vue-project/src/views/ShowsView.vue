@@ -1,9 +1,10 @@
 <script setup>
-import TheWelcome from '../components/TheWelcome.vue'
+import Shows from '../components/Shows.vue'
 </script>
 
 <template>
   <main>
-    <Home />
+    yo?
+    <Shows />
   </main>
 </template>

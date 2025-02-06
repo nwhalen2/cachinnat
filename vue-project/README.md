@@ -33,3 +33,19 @@ npm run build
 ```sh
 npm run deploy
 ```
+
+## dependencies extra resources
+
+### fontawesome
+
+npm install @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons @fortawesome/vue-fontawesome
+npm install @fortawesome/free-brands-svg-icons
+
+### bootstrap
+
+npm install bootstrap
+npm install bootstrap-icons
+
+### extra resources
+
+[css fonts](https://www.w3.org/Style/Examples/007/fonts.en.html)
