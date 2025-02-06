@@ -1,0 +1,1 @@
+import{_ as r,c as s,o as n,a,b as c}from"./index-CR7tS8KH.js";const _={};function i(o,t){return n(),s("h3",null,"this is gonna have my shows")}const l=r(_,[["render",i]]),u={__name:"ShowsView",setup(o){return(t,e)=>(n(),s("main",null,[e[0]||(e[0]=a(" yo? ")),c(l)]))}};export{u as default};
