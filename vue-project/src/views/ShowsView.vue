@@ -4,7 +4,6 @@ import Shows from '../components/Shows.vue'
 
 <template>
   <main>
-    yo?
     <Shows />
   </main>
 </template>

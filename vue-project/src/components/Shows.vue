@@ -3,7 +3,7 @@
 </script>
 
 <template>
-  <h3>this is gonna have my shows</h3>
+  <div class="text-center">shows</div>
 </template>
 
 <style scoped>
