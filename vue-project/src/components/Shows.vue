@@ -1,5 +1,6 @@
 <template>
   <div class="text-center">
+    <small class="mt-3" style="color:orange">(don't refresh this page)</small>
     <div class="m-4 text-center title">upcoming shows</div>
     <div v-for="show in shows" class="m-4 w-md-50 d-flex flex-column align-items-center">
       <hr class="w-50" />
