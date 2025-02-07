@@ -1,1 +1,0 @@
-import{_ as n,c as e,o as c,a as o}from"./index-DfY4nKuW.js";const _={},r={class:"text-center"};function a(s,t){return c(),e("div",r,"shows")}const i=n(_,[["render",a]]),m={__name:"ShowsView",setup(s){return(t,f)=>(c(),e("main",null,[o(i)]))}};export{m as default};
