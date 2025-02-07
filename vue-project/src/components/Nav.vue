@@ -12,8 +12,8 @@ defineProps({
 <template>
     <div class="bg-nav">
         <nav class="d-flex justify-content-center">
-            <RouterLink class="navitem p-2" to="/">home</RouterLink>
-            <RouterLink class="navitem p-2" to="/shows">shows</RouterLink>
+            <RouterLink class="navitem p-2 bg-nav" to="/">home</RouterLink>
+            <RouterLink class="navitem p-2 bg-nav" to="/shows">shows</RouterLink>
         </nav>
     </div>
     <RouterView />

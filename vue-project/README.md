@@ -34,7 +34,7 @@ npm run build
 npm run deploy
 ```
 
-## dependencies extra resources
+## dependencies 
 
 ### fontawesome
 
