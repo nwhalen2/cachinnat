@@ -3,11 +3,11 @@
     <small class="mt-3" style="color:orange">(don't refresh this page)</small>
     <div class="flex justify-center align-items-center my-4">
       <button 
-      class="p-2 me-4 border border-dark rounded text-uppercase"
+      class="p-2 me-4 border border-dark rounded text-uppercase text-dark"
       :class="showPast ? 'bg-orange-25' : 'bg-orange'"
       @click="showPast = false">upcoming</button>
       <button 
-      class="p-2 border border-dark rounded text-uppercase"
+      class="p-2 border border-dark rounded text-uppercase text-dark"
       :class="showPast ? 'bg-pink' : 'bg-pink-25'"
       @click="showPast = true">past</button>
     </div>
