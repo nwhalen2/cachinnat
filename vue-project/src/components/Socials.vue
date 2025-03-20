@@ -30,10 +30,10 @@ export default {
 
 <style>
 .instagram-icon {
-    color: orange
+    color: pink
 
 }
 .youtube-icon {
-    color: pink
+    color: orange
 }
 </style>
