@@ -112,8 +112,9 @@ export default {
     },
     isPast(showDate) {
       const today = new Date();
-      today.setDate(today.getDate() - 1)
+      today.setDate(today.getDate())
       showDate = new Date(showDate)
+      showDate.setHours(23)
       return today > showDate;
     }, 
     showDate(dateString) {
