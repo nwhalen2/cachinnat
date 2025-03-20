@@ -37,6 +37,14 @@ export default {
       showPast: false,
       allShows: [
         {
+          title: `<b>take a shot</b><br/>at my buddy's`,
+          extra: `judge & performer`,
+          free: true,
+          url: `https://www.instagram.com/takeashotopenmic/`,
+          date: `03/23/2025`,
+          time: `9:00pm`
+        },
+        {
           title: `<b>comedy show & latin dance party</b><br/>at latin dance technique studio`,
           extra: `byob!`,
           free: false,
