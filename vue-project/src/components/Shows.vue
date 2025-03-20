@@ -112,11 +112,8 @@ export default {
     },
     isPast(showDate) {
       const today = new Date();
+      today.setDate(today.getDate() - 1)
       showDate = new Date(showDate)
-      console.log('today:', today);
-      console.log('show date:', showDate);
-      console.log('today > show date ?', today > showDate);
-      if (today < showDate) this.split = true;
       return today > showDate;
     }, 
     showDate(dateString) {
