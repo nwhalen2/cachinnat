@@ -38,11 +38,18 @@ export default {
       allShows: [
         {
           title: `<b>love below comedy show</b><br/>at beermiscuous`,
-          extra: `feature`,
+          extra: ``,
           free: true,
           url: `https://www.instagram.com/thelovebelowcomedyshow/`,
           date: `04/17/2025`,
           time: `8:00pm`
+        },
+        {
+          title: `<b>fresh faces</b><br/>at laugh factory`,
+          free: false,
+          url: `https://www.tixr.com/groups/laughfactorychicago/events/what-could-go-wrong-comedy-show-135416`,
+          date: `04/01/2025`,
+          time: `7:30pm`
         },
         {
           title: `<b>take a shot</b><br/>at my buddy's`,
@@ -101,7 +108,7 @@ export default {
         },
         {
           title: `<b>shaker's on clark</b>`,
-          extra: ``,
+          extra: `feature`,
           free: true,
           url: ``,
           date: `02/03/2025`,
