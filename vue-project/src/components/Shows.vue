@@ -37,6 +37,14 @@ export default {
       showPast: false,
       allShows: [
         {
+          title: `<b>love below comedy show</b><br/>at beermiscuous`,
+          extra: `feature`,
+          free: true,
+          url: `https://www.instagram.com/thelovebelowcomedyshow/`,
+          date: `04/17/2025`,
+          time: `8:00pm`
+        },
+        {
           title: `<b>take a shot</b><br/>at my buddy's`,
           extra: `judge & performer`,
           free: true,
