@@ -37,6 +37,23 @@ export default {
       showPast: false,
       allShows: [
         {
+          title: `<b>talk yo sh*t</b><br/>at chicago theater works`,
+          extra: `free for moms!`,
+          free: false,
+          url: `https://www.instagram.com/p/DH4iIF8PUfI/`,
+          date: `05/11/2025`,
+          time: `6:30pm`
+        },
+        
+        {
+          title: `<b>dinner party comedy</b><br/>at 3419 w fullerton`,
+          extra: `more details to come`,
+          //free: false,
+          //url: ``,
+          date: `05/02/2025`,
+          time: `8:00pm`
+        },
+        {
           title: `<b>love below comedy show</b><br/>at beermiscuous`,
           extra: ``,
           free: true,
