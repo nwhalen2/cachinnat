@@ -2,7 +2,7 @@
     <div class="text-center">
 
       <div v-if="show.title" v-html="show.title" class=" lg:fs-5  title"></div>
-        <div v-if="show.extra">({{  show.extra }})</div>
+        <div v-if="show.extra" v-html="show.extra"></div>
     
         <div v-if="show.date">date: {{ showDate(show.date) }}</div>
         <div v-if="show.time">time: {{ show.time }}</div>

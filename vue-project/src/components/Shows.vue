@@ -37,6 +37,30 @@ export default {
       showPast: false,
       allShows: [
         {
+          title: `<b>chi lights</b> (comedy you deserve)<br/>at <b>the den theatre</b>`,
+          extra: `more details to come`,
+          //free: false,
+          //url: `https://www.eventbrite.com/e/monday-february-17-late-nite-mic-with-vik-pandya-tickets-1119346498509?aff=erellivmlt`,
+          date: `07/15/2025`,
+          time: `7:00pm`
+        },
+        {
+          title: `<b>love below comedy show</b><br/>at beermiscuous`,
+          extra: `<i>every third thursday!</i>`,
+          free: true,
+          url: `https://www.instagram.com/thelovebelowcomedyshow/`,
+          date: `06/19/2025`,
+          time: `8:00pm`
+        },
+        {
+          title: `<b>love below comedy show</b><br/>at beermiscuous`,
+          extra: `<i>every third thursday!</i>`,
+          free: true,
+          url: `https://www.instagram.com/thelovebelowcomedyshow/`,
+          date: `05/15/2025`,
+          time: `8:00pm`
+        },
+        {
           title: `<b>talk yo sh*t</b><br/>at chicago theater works`,
           extra: `free for moms!`,
           free: false,
@@ -55,7 +79,7 @@ export default {
         },
         {
           title: `<b>love below comedy show</b><br/>at beermiscuous`,
-          extra: ``,
+          extra: `<i>every third thursday!</i>`,
           free: true,
           url: `https://www.instagram.com/thelovebelowcomedyshow/`,
           date: `04/17/2025`,
