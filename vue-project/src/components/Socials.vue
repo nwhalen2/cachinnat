@@ -7,6 +7,7 @@
 </template>
 
 <script>
+
 export default {
     data() {
         return {
@@ -20,6 +21,11 @@ export default {
                     name: `youtube-icon`,
                     icon: `youtube`,
                     url: `https://www.youtube.com/@natatouille2000/videos`,
+                },
+                {
+                    name: `linkedin-icon`,
+                    icon: `linkedin`,
+                    url: `https://www.linkedin.com/in/natalie-whalen-7574b0166/`,
                 }
             ]
         }
@@ -29,11 +35,11 @@ export default {
 </script>
 
 <style>
-.instagram-icon {
-    color: pink
+.instagram-icon, .linkedin-icon {
+    color: orange
 
 }
 .youtube-icon {
-    color: orange
+    color: pink
 }
 </style>

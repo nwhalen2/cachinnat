@@ -11,6 +11,7 @@
         <a v-if="show.url" :href="show.url" target="_blank">
           <div class="border border-dark rounded mt-2">
             <div v-if="show.free" class="p-2" :class="past ? 'bg-pink-25' : 'bg-orange-25'">more info</div>
+            <div v-else-if="show.ambiguous" class="p-2" :class="past ? 'bg-pink-25' : 'bg-orange-25'">details</div>
             <div v-else class="p-2" :class="past ? 'bg-pink' : 'bg-orange'">tickets</div>
           </div>
         </a>

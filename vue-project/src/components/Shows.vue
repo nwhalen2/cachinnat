@@ -61,6 +61,14 @@ export default {
           time: `8:00pm`
         },
         {
+          title: `live comedy!!<br/>at <b>the bottle shop</b>`,
+          extra: `(guest spot)`,
+          free: false,
+          url: `https://thebottleshoplakegeneva.com/calendar/`,
+          date: `04/19/2025`,
+          time: `7:00pm`
+        },
+        {
           title: `<b>talk yo sh*t</b><br/>at chicago theater works`,
           extra: `free for moms!`,
           free: false,
@@ -68,13 +76,24 @@ export default {
           date: `05/11/2025`,
           time: `6:30pm`
         },
-        
         {
-          title: `<b>dinner party comedy</b><br/>at 3419 w fullerton`,
+          title: `<b>dinner party comedy</b><br/>3419 w fullerton`,
           extra: `more details to come`,
-          //free: false,
-          //url: ``,
+          //free: true,
+          url: `https://www.brit-design.com/shows?fbclid=PAZXh0bgNhZW0CMTEAAafv0YoigeXoMeK1r0NY-sKHCbHgVg4tXEIDG_6ZvXWjS2rAWtwQoBVVFVTxwQ_aem_HY-0ZLfBaEwxRAGi6Rwolg`,
           date: `05/02/2025`,
+          time: `8:00pm`
+        },
+        {
+          title: `(private) <b>apartment show</b>`,
+          date: `04/24/2025`,
+          time: `7:00pm`
+        },
+        {
+          title: `out<b>RAY</b>geous comedy<br/>in <b>miami!!</b>`,
+          free: false,
+          url: `https://www.raysbarnyc.com/happenings-in-miami/`,
+          date: `05/08/2025`,
           time: `8:00pm`
         },
         {
@@ -84,6 +103,14 @@ export default {
           url: `https://www.instagram.com/thelovebelowcomedyshow/`,
           date: `04/17/2025`,
           time: `8:00pm`
+        },
+        {
+          title: `comedy show<br/>at <b>mustang's</b>`,
+          extra: `<i>on the road, baby!</i>`,
+          date: `04/16/2025`,
+          time: `8:00pm`,
+          ambiguous: true,
+          url: `https://www.mustangsbargrill.com/happenings`
         },
         {
           title: `<b>fresh faces</b><br/>at laugh factory`,
@@ -98,6 +125,14 @@ export default {
           free: true,
           url: `https://www.instagram.com/takeashotopenmic/`,
           date: `03/23/2025`,
+          time: `9:00pm`
+        },
+        {
+          title: `<b>take a shot</b><br/>at my buddy's`,
+          extra: `judge & performer`,
+          free: true,
+          url: `https://www.instagram.com/takeashotopenmic/`,
+          date: `04/20/2025`,
           time: `9:00pm`
         },
         {
