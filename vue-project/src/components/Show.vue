@@ -4,8 +4,8 @@
       <div v-if="show.title" v-html="show.title" class=" lg:fs-5  title"></div>
         <div v-if="show.extra" v-html="show.extra"></div>
     
-        <div v-if="show.date">date: {{ showDate(show.date) }}</div>
-        <div v-if="show.time">time: {{ show.time }}</div>
+        <div v-if="show.date">{{ showDate(show.date) }}</div>
+        <div v-if="show.time">{{ show.time }}</div>
         <div v-if="show.free">free!</div>
     
         <a v-if="show.url" :href="show.url" target="_blank">

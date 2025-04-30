@@ -45,12 +45,24 @@ export default {
           time: `7:00pm`
         },
         {
+          title: `<b>laughs over nelson</b><br/>a lakeview moishe house`,
+          extra: `(honorary jew for the night)`,
+          date: `06/21/2025`,
+          time: `8:00pm`
+        },
+        {
           title: `<b>love below comedy show</b><br/>at beermiscuous`,
           extra: `<i>every third thursday!</i>`,
           free: true,
           url: `https://www.instagram.com/thelovebelowcomedyshow/`,
           date: `06/19/2025`,
           time: `8:00pm`
+        },
+        {
+          title: `standup comedy show<br/>in <b>festus, missouri</b>`,
+          extra: `<i>on the road!</i>`,
+          date: `06/06/2025`,
+          time: `at night`
         },
         {
           title: `<b>love below comedy show</b><br/>at beermiscuous`,
@@ -77,6 +89,13 @@ export default {
           time: `6:30pm`
         },
         {
+          title: `'the killing joke' mode in <b>miami!!</b>`,
+          free: true,
+          url: `https://www.eventbrite.com/e/the-killing-joke-mode-miami-stand-up-comedy-show-thursday-registration-1325875813249?aff=instagram&utm_campaign=thursdays+%27the+killing+joke%27+mode+miami+comedy+night&utm_medium=social&utm_source=linktree`,
+          date: `05/08/2025`,
+          time: `9:00pm EST`
+        },
+        {
           title: `<b>dinner party comedy</b><br/>3419 w fullerton`,
           extra: `more details to come`,
           //free: true,
@@ -88,13 +107,6 @@ export default {
           title: `(private) <b>apartment show</b>`,
           date: `04/24/2025`,
           time: `7:00pm`
-        },
-        {
-          title: `out<b>RAY</b>geous comedy<br/>in <b>miami!!</b>`,
-          free: false,
-          url: `https://www.raysbarnyc.com/happenings-in-miami/`,
-          date: `05/08/2025`,
-          time: `8:00pm`
         },
         {
           title: `<b>love below comedy show</b><br/>at beermiscuous`,
