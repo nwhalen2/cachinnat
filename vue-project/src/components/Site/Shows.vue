@@ -112,6 +112,14 @@ export default {
           time: `8:00pm`
         },
         {
+          title: `<b>chirp dj night</b><br/>at the native`,
+          extra: `dog friendly. cash only. not comedy, but come vibe!!`,
+          free: true,
+          url: `https://chirpradio.org/events/chirp-dj-night-at-the-native-with-dj-natalie-whalen`,
+          date: `05/13/2025`,
+          time: `9:00pm`
+        },
+        {
           title: `<b>talk yo sh*t</b><br/>at chicago theater works`,
           extra: `free for moms!`,
           free: false,
