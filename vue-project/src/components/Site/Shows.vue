@@ -1,10 +1,10 @@
 <template>
   <div class="text-center">
-    <small class="mt-3" style="color:orange">(don't refresh this page)</small>
-    <div class="flex justify-center align-items-center my-4">
+    <h5 class="title my-4">full show schedule</h5>
+    <div class="flex justify-center align-items-center">
       <button 
       class="p-2 me-4 border border-dark rounded text-uppercase text-dark"
-      :class="showPast ? 'bg-orange-25' : 'bg-orange'"
+      :class="showPast ? 'bg-pink-25' : 'bg-pink'"
       @click="showPast = false">upcoming</button>
       <button 
       class="p-2 border border-dark rounded text-uppercase text-dark"
@@ -12,15 +12,17 @@
       @click="showPast = true">past</button>
     </div>
     
-    <div v-if="!showPast">
-      <div v-for="(show, i) in upcomingShows" class="m-4 my-5 w-md-50 d-flex flex-column align-items-center">
-        <Show :show="show"  class="border rounded border-orange p-4"/>
-      </div>
+    <div v-if="!showPast" class="d-flex flex-column align-items-center">
+      <Show v-for="(show, i) in upcomingShows"
+      :show="show"
+      :key="i"
+      class="m-4 col-12 col-md-10 col-xl-8" />
     </div>
-    <div v-else>
-      <div v-for="(show, i) in pastShows" class="opacity-50 m-4 my-5 w-md-50 d-flex flex-column align-items-center">
-        <Show :show="show" :past="true" class="border rounded border-pink p-4"/>
-      </div>
+    <div v-else class="d-flex flex-column align-items-center">
+      <Show v-for="(show, i) in pastShows"
+      :show="show"
+      :key="i"
+      class="m-4 col-12 col-md-10 col-xl-8 opacity-50" />
     </div>
   </div>
 </template>
@@ -37,6 +39,14 @@ export default {
       showPast: false,
       allShows: [
         {
+          title: `<b>crafted laughs</b><br/>in <b>lake geneva</b>, wisconsin`,
+          extra: `<i>every 2nd & 4th friday!</i>`,
+          free: true,
+          url: `https://www.instagram.com/crafted.laughs/`,
+          date: `07/11/2025`,
+          time: `8:00pm`
+        },
+        {
           title: `<b>chi lights</b> (comedy you deserve)<br/>at <b>the den theatre</b>`,
           extra: `more details to come`,
           //free: false,
@@ -45,9 +55,25 @@ export default {
           time: `7:00pm`
         },
         {
+          title: `<b>crafted laughs</b><br/>in <b>lake geneva</b>, wisconsin`,
+          extra: `<i>every 2nd & 4th friday!</i>`,
+          free: true,
+          url: `https://www.instagram.com/crafted.laughs/`,
+          date: `06/27/2025`,
+          time: `8:00pm`
+        },
+        {
           title: `<b>laughs over nelson</b><br/>a lakeview moishe house`,
           extra: `(honorary jew for the night)`,
           date: `06/21/2025`,
+          time: `8:00pm`
+        },
+        {
+          title: `<b>crafted laughs</b><br/>in <b>lake geneva</b>, wisconsin`,
+          extra: `<i>every 2nd & 4th friday!</i>`,
+          free: true,
+          url: `https://www.instagram.com/crafted.laughs/`,
+          date: `06/13/2025`,
           time: `8:00pm`
         },
         {
@@ -65,6 +91,19 @@ export default {
           time: `at night`
         },
         {
+          title: `<b>chicago roast battle</b><br/>at zanie's rosemont`,
+          url: `https://www.etix.com/ticket/p/60742315/roast-battle-rosemont-zanies-rosemont?partner_id=100&_gl=1*4c3yot*_ga*OTM5NTE2MTk4LjE3NDY0ODY2MjQ.*_ga_DBEL6KZ540*czE3NDY1NjIxMzIkbzIkZzEkdDE3NDY1NjIzMTEkajAkbDAkaDA.`,
+          date: `05/25/2025`,
+          time: `7:00pm`
+        },
+        {
+          title: `<b>don't tell comedy</b><br/>in madison, wisconsin`,
+          extra: `<i>secret location!</i>`,
+          url: `https://www.donttellcomedy.com/shows/madison-05-16-25/`,
+          date: `05/16/2025`,
+          time: `7:00pm`
+        },
+        {
           title: `<b>love below comedy show</b><br/>at beermiscuous`,
           extra: `<i>every third thursday!</i>`,
           free: true,
@@ -73,18 +112,10 @@ export default {
           time: `8:00pm`
         },
         {
-          title: `live comedy!!<br/>at <b>the bottle shop</b>`,
-          extra: `(guest spot)`,
-          free: false,
-          url: `https://thebottleshoplakegeneva.com/calendar/`,
-          date: `04/19/2025`,
-          time: `7:00pm`
-        },
-        {
           title: `<b>talk yo sh*t</b><br/>at chicago theater works`,
           extra: `free for moms!`,
           free: false,
-          url: `https://www.instagram.com/p/DH4iIF8PUfI/`,
+          url: `https://www.eventbrite.com/e/talk-yo-sht-mothers-day-edition-comedy-show-tickets-1317049463399?fbclid=PAZXh0bgNhZW0CMTEAAadWO2MQKRwLBs3VSUhG9rcwP3S0MyiHGk42VV9kgzYPuhKj-G5Xvys4pcDgWg_aem_nJccWBoAAriybQlfmGNiwA`,
           date: `05/11/2025`,
           time: `6:30pm`
         },
@@ -97,15 +128,21 @@ export default {
         },
         {
           title: `<b>dinner party comedy</b><br/>3419 w fullerton`,
-          extra: `more details to come`,
-          //free: true,
-          url: `https://www.brit-design.com/shows?fbclid=PAZXh0bgNhZW0CMTEAAafv0YoigeXoMeK1r0NY-sKHCbHgVg4tXEIDG_6ZvXWjS2rAWtwQoBVVFVTxwQ_aem_HY-0ZLfBaEwxRAGi6Rwolg`,
+          url: `https://www.brit-design.com/shows`,
           date: `05/02/2025`,
           time: `8:00pm`
         },
         {
           title: `(private) <b>apartment show</b>`,
           date: `04/24/2025`,
+          time: `7:00pm`
+        },
+        {
+          title: `live comedy!!<br/>at <b>the bottle shop</b>`,
+          extra: `(guest spot)`,
+          free: false,
+          url: `https://thebottleshoplakegeneva.com/calendar/`,
+          date: `04/19/2025`,
           time: `7:00pm`
         },
         {
@@ -254,6 +291,9 @@ a {
 }
 .border-orange {
   border-color: orange
+}
+.border-pink {
+  border-color: pink
 }
 .bg-orange {
   background-color: orange
