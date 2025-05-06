@@ -312,6 +312,12 @@ a {
 .bg-orange-25:hover {
   background-color: rgba(255, 165, 0, 0.5);
 }
+.bg-orange-75 {
+  background-color: rgba(255, 165, 0, 0.75);
+}
+.bg-orange-75:hover {
+  background-color: rgba(255, 165, 0, 0.5);
+}
 .bg-lightgreen {
   background-color: lightgreen;
 }

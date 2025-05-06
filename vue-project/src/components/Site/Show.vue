@@ -31,9 +31,9 @@
     computed: {
       backgroundColor() {
         if (this.show.free) {
-          return 'bg-pink-25';
+          return 'bg-orange-25';
         } else {
-          return 'bg-pink';
+          return 'bg-orange-75';
         }
       },
       urlText() {
