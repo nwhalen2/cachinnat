@@ -39,6 +39,13 @@ export default {
       showPast: false,
       allShows: [
         {
+          title: `<b>blackout diaries</b><br/>at lincoln lodge`,
+          extra: `oh the tales to tell!`,
+          url: `https://www.eventbrite.com/e/blackout-diaries-tickets-169891531143`,
+          date: `07/18/2025`,
+          time: `10:00pm`
+        },
+        {
           title: `<b>crafted laughs</b><br/>in <b>lake geneva</b>, wisconsin`,
           extra: `<i>every 2nd & 4th friday!</i>`,
           free: true,
@@ -49,8 +56,6 @@ export default {
         {
           title: `<b>chi lights</b> (comedy you deserve)<br/>at <b>the den theatre</b>`,
           extra: `more details to come`,
-          //free: false,
-          //url: `https://www.eventbrite.com/e/monday-february-17-late-nite-mic-with-vik-pandya-tickets-1119346498509?aff=erellivmlt`,
           date: `07/15/2025`,
           time: `7:00pm`
         },
