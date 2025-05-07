@@ -1,10 +1,10 @@
 <template>
-    <div class="text-center p-4" style="border-style: dotted; border-color: pink">
+    <div class="text-center p-4 border-3" style="border-style: dotted; border-color: pink">
         <div class="d-md-flex justify-content-between align-items-center">
-            <div v-if="show.date" class="order-md-2 col-12 col-md-2 px-2">{{ showDate(show.date) }}</div>
+            <div v-if="show.date" class="order-md-2 flex-grow-2 col-12 col-md-2 px-2">{{ showDate(show.date) }}</div>
             <div v-if="show.title" v-html="show.title" class="order-md-1 col-12 col-md-4 px-2 lg:fs-5 title"></div>
 
-            <div v-if="show.extra" v-html="show.extra" class="order-3 col-12 col-md-2 px-2"></div>
+            <div v-if="show.extra" v-html="show.extra" class="order-3 flex-grow-1 col-12 col-md-2 px-2"></div>
             <div v-if="show.time" class="order-4 col-12 col-md-2 px-2">{{ show.time }}</div>
             <!--div v-if="show.free" class="order-5 col-12 col-md-2 px-2">*free*</div-->
         </div>
