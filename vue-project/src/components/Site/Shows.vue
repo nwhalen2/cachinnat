@@ -108,7 +108,7 @@ export default {
           time: `7:00pm`
         },
         {
-          title: `<b>oxymorons: </b>alternative facts<br/>at io theater`,
+          title: `<b>oxymorons: </b>alternative facts!<br/>at io theater`,
           extra: `sketch comedy w a special standup guest ;)`,
           url: `https://ci.ovationtix.com/36725/production/1215947?performanceId=11633569`,
           date: `05/17/2025`,
