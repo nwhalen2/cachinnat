@@ -75,14 +75,14 @@ export default {
         },
         {
           title: `<b>crafted laughs</b><br/>in <b>lake geneva</b>, wisconsin`,
-          extra: `<i>every 2nd & 4th friday!</i>`,
+          extra: `debut show.<br/>!! PLEASE COME !!`,
           free: true,
           url: `https://www.instagram.com/crafted.laughs/`,
           date: `06/13/2025`,
           time: `8:00pm`
         },
         {
-          title: `<b>love below comedy show</b><br/>at beermiscuous`,
+          title: `the <b>love below</b> comedy show<br/>at <b>beermiscuous</b>`,
           extra: `<i>every third thursday!</i>`,
           free: true,
           url: `https://www.instagram.com/thelovebelowcomedyshow/`,
@@ -96,10 +96,23 @@ export default {
           time: `at night`
         },
         {
+          title: `<b>chicago roast battle</b><br/>at comedy clubhouse`,
+          url: `https://www.ticketsource.com/whats-on/il/the-comedy-clubhouse/main-stage-stand-up-showcase/e-xjzjmg`,
+          date: `05/31/2025`,
+          time: `9:30pm`
+        },
+        {
           title: `<b>chicago roast battle</b><br/>at zanie's rosemont`,
           url: `https://www.etix.com/ticket/p/60742315/roast-battle-rosemont-zanies-rosemont?partner_id=100&_gl=1*4c3yot*_ga*OTM5NTE2MTk4LjE3NDY0ODY2MjQ.*_ga_DBEL6KZ540*czE3NDY1NjIxMzIkbzIkZzEkdDE3NDY1NjIzMTEkajAkbDAkaDA.`,
           date: `05/25/2025`,
           time: `7:00pm`
+        },
+        {
+          title: `<b>oxymorons: </b>alternative facts<br/>at io theater`,
+          extra: `sketch comedy w a special standup guest ;)`,
+          url: `https://ci.ovationtix.com/36725/production/1215947?performanceId=11633569`,
+          date: `05/17/2025`,
+          time: `10:45pm`
         },
         {
           title: `<b>don't tell comedy</b><br/>in madison, wisconsin`,
@@ -109,7 +122,7 @@ export default {
           time: `7:00pm`
         },
         {
-          title: `<b>love below comedy show</b><br/>at beermiscuous`,
+          title: `the <b>love below</b> comedy show<br/>at <b>beermiscuous</b>`,
           extra: `<i>every third thursday!</i>`,
           free: true,
           url: `https://www.instagram.com/thelovebelowcomedyshow/`,
@@ -159,7 +172,7 @@ export default {
           time: `7:00pm`
         },
         {
-          title: `<b>love below comedy show</b><br/>at beermiscuous`,
+          title: `the <b>love below</b> comedy show<br/>at <b>beermiscuous</b>`,
           extra: `<i>every third thursday!</i>`,
           free: true,
           url: `https://www.instagram.com/thelovebelowcomedyshow/`,
@@ -214,7 +227,7 @@ export default {
           time: `8:00pm`
         },
         {
-          title: `<b>love below comedy show</b><br/>at beermiscuous`,
+          title: `the <b>love below</b> comedy show<br/>at <b>beermiscuous</b>`,
           extra: `hosting!`,
           free: true,
           url: `https://www.instagram.com/p/DHLs-PlA-mu/`,
@@ -222,7 +235,7 @@ export default {
           time: `8:00pm`
         },
         {
-          title: `<b>love below comedy show</b><br/>at beermiscuous`,
+          title: `the <b>love below</b> comedy show<br/>at <b>beermiscuous</b>`,
           extra: `hosting!`,
           free: true,
           url: `https://www.instagram.com/p/DFqdfblSCIj/`,
