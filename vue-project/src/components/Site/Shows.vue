@@ -96,10 +96,17 @@ export default {
           time: `at night`
         },
         {
-          title: `<b>chicago roast battle</b><br/>at comedy clubhouse`,
+          title: `stand-up showcase<br/>at <b>comedy clubhouse</b>`,
           url: `https://www.ticketsource.com/whats-on/il/the-comedy-clubhouse/main-stage-stand-up-showcase/e-xjzjmg`,
           date: `05/31/2025`,
           time: `9:30pm`
+        },
+        {
+          title: `<b>the bridge is up</b><br/>at small world bar & grill on 106th st`,
+          extra: `free!`,
+          free: true,
+          date: `05/28/2025`,
+          time: `9:00pm`
         },
         {
           title: `<b>chicago roast battle</b><br/>at zanie's rosemont`,
