@@ -112,6 +112,7 @@ export default {
         {
           title: `<b>techxhausted</b><br/>at cafe mustache`,
           url: `https://www.eventbrite.com/e/comedy-night-techxhausted-6-tickets-1350590786399?aff=oddtdtcreator&fbclid=PAZXh0bgNhZW0CMTEAAadqtuw2rYWCPy1A1CPQ_e-C_kQQsB7_2CPgVHT5ZVaF85nNZ_8uAmYqJyg78A_aem_PHkiJIug6hA-sFqqCPlnzg`,
+          free: true,
           date: `05/30/2025`,
           extra: `come do a pitch & get roasted`,
           time: `7:00pm`
