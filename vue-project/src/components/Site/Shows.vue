@@ -46,6 +46,13 @@ export default {
           time: `10:00pm`
         },
         {
+          title: `<b>red room</b> comedy showcase`,
+          url: `https://www.redroomcomedyclub.com/`,
+          extra: `guest spot`,
+          date: `07/15/2025`,
+          time: `7:00pm`
+        },
+        {
           title: `<b>crafted laughs</b><br/>in <b>lake geneva</b>, wisconsin`,
           extra: `<i>every 2nd & 4th friday!</i>`,
           free: true,
@@ -92,8 +99,9 @@ export default {
         {
           title: `standup comedy show<br/>in <b>festus, missouri</b>`,
           extra: `<i>on the road!</i>`,
-          date: `06/06/2025`,
-          time: `at night`
+          url: `https://stlcomedystudio.square.site/product/june-7th-general-admission/40?cs=true&cst=custom`,
+          date: `06/07/2025`,
+          time: `6:00pm`
         },
         {
           title: `stand-up showcase<br/>at <b>comedy clubhouse</b>`,
@@ -102,14 +110,23 @@ export default {
           time: `9:30pm`
         },
         {
+          title: `<b>techxhausted</b><br/>at cafe mustache`,
+          url: `https://www.eventbrite.com/e/comedy-night-techxhausted-6-tickets-1350590786399?aff=oddtdtcreator&fbclid=PAZXh0bgNhZW0CMTEAAadqtuw2rYWCPy1A1CPQ_e-C_kQQsB7_2CPgVHT5ZVaF85nNZ_8uAmYqJyg78A_aem_PHkiJIug6hA-sFqqCPlnzg`,
+          date: `05/30/2025`,
+          extra: `come do a pitch & get roasted`,
+          time: `6:30pm`
+        },
+        {
           title: `<b>the bridge is up</b><br/>at small world bar & grill on 106th st`,
-          extra: `free!`,
+          url: `https://www.instagram.com/p/DKAFJRAAcjl/`,
+          extra: `<i>15 minute set!</i>`,
           free: true,
           date: `05/28/2025`,
           time: `9:00pm`
         },
         {
           title: `<b>chicago roast battle</b><br/>at zanie's rosemont`,
+          extra: `<i>vs. devin glass</i>`,
           url: `https://www.etix.com/ticket/p/60742315/roast-battle-rosemont-zanies-rosemont?partner_id=100&_gl=1*4c3yot*_ga*OTM5NTE2MTk4LjE3NDY0ODY2MjQ.*_ga_DBEL6KZ540*czE3NDY1NjIxMzIkbzIkZzEkdDE3NDY1NjIzMTEkajAkbDAkaDA.`,
           date: `05/25/2025`,
           time: `7:00pm`
