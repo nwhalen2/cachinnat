@@ -49,8 +49,8 @@ export default {
           title: `<b>red room</b> comedy showcase`,
           url: `https://www.redroomcomedyclub.com/`,
           extra: `guest spot`,
-          date: `07/15/2025`,
-          time: `7:00pm`
+          date: `07/12/2025`,
+          time: `8:00pm`
         },
         {
           title: `<b>crafted laughs</b><br/>in <b>lake geneva</b>, wisconsin`,
