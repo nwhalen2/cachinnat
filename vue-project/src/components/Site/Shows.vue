@@ -39,11 +39,67 @@ export default {
       showPast: false,
       allShows: [
         {
+          title: `<b>crafted laughs</b><br/>in <b>lake geneva</b>, wisconsin`,
+          extra: `<i>every 2nd & 4th friday!</i>`,
+          free: true,
+          url: `https://www.instagram.com/crafted.laughs/`,
+          date: `09/26/2025`,
+          time: `8:00pm`
+        },
+        {
+          title: `the <b>love below</b> comedy show<br/>at <b>beermiscuous</b>`,
+          extra: `<i>every third thursday!</i>`,
+          free: true,
+          url: `https://www.instagram.com/thelovebelowcomedyshow/`,
+          date: `09/18/2025`,
+          time: `8:00pm`
+        },
+        {
+          title: `<b>crafted laughs</b><br/>in <b>lake geneva</b>, wisconsin`,
+          extra: `<i>every 2nd & 4th friday!</i>`,
+          free: true,
+          url: `https://www.instagram.com/crafted.laughs/`,
+          date: `09/12/2025`,
+          time: `8:00pm`
+        },
+        {
+          title: `<b>crafted laughs</b><br/>in <b>lake geneva</b>, wisconsin`,
+          extra: `<i>every 2nd & 4th friday!</i>`,
+          free: true,
+          url: `https://www.instagram.com/crafted.laughs/`,
+          date: `08/22/2025`,
+          time: `8:00pm`
+        },
+        {
+          title: `the <b>love below</b> comedy show<br/>at <b>beermiscuous</b>`,
+          extra: `<i>every third thursday!</i>`,
+          free: true,
+          url: `https://www.instagram.com/thelovebelowcomedyshow/`,
+          date: `08/21/2025`,
+          time: `8:00pm`
+        },
+        {
+          title: `<b>crafted laughs</b><br/>in <b>lake geneva</b>, wisconsin`,
+          extra: `<i>every 2nd & 4th friday!</i>`,
+          free: true,
+          url: `https://www.instagram.com/crafted.laughs/`,
+          date: `08/08/2025`,
+          time: `8:00pm`
+        },
+        {
           title: `<b>blackout diaries</b><br/>at lincoln lodge`,
           extra: `oh the tales to tell!`,
           url: `https://www.eventbrite.com/e/blackout-diaries-tickets-169891531143`,
           date: `07/18/2025`,
           time: `10:00pm`
+        },
+        {
+          title: `the <b>love below</b> comedy show<br/>at <b>beermiscuous</b>`,
+          extra: `<i>every third thursday!</i>`,
+          free: true,
+          url: `https://www.instagram.com/thelovebelowcomedyshow/`,
+          date: `07/17/2025`,
+          time: `8:00pm`
         },
         {
           title: `<b>red room</b> comedy showcase`,
