@@ -87,6 +87,12 @@ export default {
           time: `8:00pm`
         },
         {
+          title: `stand-up showcase<br/>at <b>comedy clubhouse</b>`,
+          url: `https://www.ticketsource.com/whats-on/il/the-comedy-clubhouse/main-stage-stand-up-showcase/e-xjzjmg`,
+          date: `07/19/2025`,
+          time: `9:30pm`
+        },
+        {
           title: `<b>blackout diaries</b><br/>at lincoln lodge`,
           extra: `oh the tales to tell!`,
           url: `https://www.eventbrite.com/e/blackout-diaries-tickets-169891531143`,
