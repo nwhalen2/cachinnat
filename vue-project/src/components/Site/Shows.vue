@@ -129,6 +129,13 @@ export default {
           time: `7:00pm`
         },
         {
+          title: `live comedy<br/>at <b>o'callaghans</b>`,
+          free: true,
+          url: `https://www.instagram.com/p/DKR6oN3tPkc/?img_index=1`,
+          date: `06/22/2025`,
+          time: `6:00pm`
+        },
+        {
           title: `<b>crafted laughs</b><br/>in <b>lake geneva</b>, wisconsin`,
           extra: `<i>every 2nd & 4th friday!</i>`,
           free: true,
@@ -159,7 +166,7 @@ export default {
           time: `8:00pm`
         },
         {
-          title: `standup comedy show<br/>in <b>festus, missouri</b>`,
+          title: `comedy show<br/>in <b>crystal city, mo</b>`,
           extra: `<i>on the road!</i>`,
           url: `https://stlcomedystudio.square.site/product/june-7th-general-admission/40?cs=true&cst=custom`,
           date: `06/07/2025`,
