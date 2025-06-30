@@ -39,7 +39,7 @@ export default {
       showPast: false,
       allShows: [
         {
-          title: `<b>crafted laughs</b><br/>in <b>lake geneva</b>, wisconsin`,
+          title: `<b>crafted laughs</b><br/>in <b>lake geneva</b>, wi`,
           extra: `<i>every 2nd & 4th friday!</i>`,
           free: true,
           url: `https://www.instagram.com/crafted.laughs/`,
@@ -55,7 +55,7 @@ export default {
           time: `8:00pm`
         },
         {
-          title: `<b>crafted laughs</b><br/>in <b>lake geneva</b>, wisconsin`,
+          title: `<b>crafted laughs</b><br/>in <b>lake geneva</b>, wi`,
           extra: `<i>every 2nd & 4th friday!</i>`,
           free: true,
           url: `https://www.instagram.com/crafted.laughs/`,
@@ -63,7 +63,7 @@ export default {
           time: `8:00pm`
         },
         {
-          title: `<b>crafted laughs</b><br/>in <b>lake geneva</b>, wisconsin`,
+          title: `<b>crafted laughs</b><br/>in <b>lake geneva</b>, wi`,
           extra: `<i>every 2nd & 4th friday!</i>`,
           free: true,
           url: `https://www.instagram.com/crafted.laughs/`,
@@ -79,7 +79,7 @@ export default {
           time: `8:00pm`
         },
         {
-          title: `<b>crafted laughs</b><br/>in <b>lake geneva</b>, wisconsin`,
+          title: `<b>crafted laughs</b><br/>in <b>lake geneva</b>, wi`,
           extra: `<i>every 2nd & 4th friday!</i>`,
           free: true,
           url: `https://www.instagram.com/crafted.laughs/`,
@@ -87,7 +87,7 @@ export default {
           time: `8:00pm`
         },
         {
-          title: `stand-up showcase<br/>at <b>comedy clubhouse</b>`,
+          title: `<b>comedy clubhouse</b>`,
           url: `https://www.ticketsource.com/whats-on/il/the-comedy-clubhouse/main-stage-stand-up-showcase/e-xjzjmg`,
           date: `07/19/2025`,
           time: `9:30pm`
@@ -115,7 +115,7 @@ export default {
           time: `8:00pm`
         },
         {
-          title: `<b>crafted laughs</b><br/>in <b>lake geneva</b>, wisconsin`,
+          title: `<b>crafted laughs</b><br/>in <b>lake geneva</b>, wi`,
           extra: `<i>every 2nd & 4th friday!</i>`,
           free: true,
           url: `https://www.instagram.com/crafted.laughs/`,
@@ -136,12 +136,18 @@ export default {
           time: `6:00pm`
         },
         {
-          title: `<b>crafted laughs</b><br/>in <b>lake geneva</b>, wisconsin`,
+          title: `<b>crafted laughs</b><br/>in <b>lake geneva</b>, wi`,
           extra: `<i>every 2nd & 4th friday!</i>`,
           free: true,
           url: `https://www.instagram.com/crafted.laughs/`,
           date: `06/27/2025`,
           time: `8:00pm`
+        },
+        {
+          title: `<b>comedy clubhouse</b>`,
+          url: `https://www.ticketsource.com/whats-on/il/the-comedy-clubhouse`,
+          date: `06/21/2025`,
+          time: `9:30pm`
         },
         {
           title: `<b>laughs over nelson</b><br/>a lakeview moishe house`,
@@ -150,12 +156,18 @@ export default {
           time: `8:00pm`
         },
         {
-          title: `<b>crafted laughs</b><br/>in <b>lake geneva</b>, wisconsin`,
+          title: `<b>crafted laughs</b><br/>in <b>lake geneva</b>, wi`,
           extra: `debut show.<br/>!! PLEASE COME !!`,
           free: true,
           url: `https://www.instagram.com/crafted.laughs/`,
           date: `06/13/2025`,
           time: `8:00pm`
+        },
+        {
+          title: `<b>what could go wrong?</b><br/>at laugh factory`,
+          url: `https://www.laughfactory.com/chicago`,
+          date: `06/12/2025`,
+          time: `9:00pm`
         },
         {
           title: `the <b>love below</b> comedy show<br/>at <b>beermiscuous</b>`,
@@ -173,7 +185,7 @@ export default {
           time: `6:00pm`
         },
         {
-          title: `stand-up showcase<br/>at <b>comedy clubhouse</b>`,
+          title: `<b>comedy clubhouse</b>`,
           url: `https://www.ticketsource.com/whats-on/il/the-comedy-clubhouse/main-stage-stand-up-showcase/e-xjzjmg`,
           date: `05/31/2025`,
           time: `9:30pm`
@@ -209,7 +221,7 @@ export default {
           time: `10:45pm`
         },
         {
-          title: `<b>don't tell comedy</b><br/>in madison, wisconsin`,
+          title: `<b>don't tell comedy</b><br/>in madison, wi`,
           extra: `<i>secret location!</i>`,
           url: `https://www.donttellcomedy.com/shows/madison-05-16-25/`,
           date: `05/16/2025`,
