@@ -10,7 +10,7 @@
         href="https://www.instagram.com/crafted.laughs/" 
         target="_blank" 
         class="col-6 col-md-5 col-lg-3 m-md-4 p-2 d-flex align-items-center justify-content-center">
-            <img class="img-fluid" src="../../assets/images/craftedlaughs_june13.png" alt="crafted laughs in lake geneva" />
+            <img class="img-fluid" src="../../assets/images/craftedlaughs.jpg" alt="crafted laughs in lake geneva" />
         </a>
     </div>
 </template>

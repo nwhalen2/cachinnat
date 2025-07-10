@@ -63,6 +63,18 @@ export default {
           time: `8:00pm`
         },
         {
+          title: `comedy show<br/>in <b>crystal city, mo</b>`,
+          extra: `STL comedy studio. <i>details to come.</i>`,
+          date: `08/23/2025`,
+        },
+        {
+          title: `<b>the bridge is up</b><br/>at small world bar & grill on 106th st`,
+          url: `https://www.instagram.com/justaguyproductions/`,
+          free: true,
+          date: `08/20/2025`,
+          time: `9:00pm`
+        },
+        {
           title: `<b>crafted laughs</b><br/>in <b>lake geneva</b>, wi`,
           extra: `<i>every 2nd & 4th friday!</i>`,
           free: true,
@@ -79,6 +91,14 @@ export default {
           time: `8:00pm`
         },
         {
+          title: `<b>rolling with the punchlines</b> at kaiser tiger`,
+          extra: `showcase + open mic`,
+          free: true,
+          url: `https://www.eventbrite.com/e/rolling-with-the-punchlines-comedy-show-open-mic-tickets-1474950830639?aff=oddtdtcreator`,
+          date: `08/16/2025`,
+          time: `4:30pm`
+        },
+        {
           title: `<b>crafted laughs</b><br/>in <b>lake geneva</b>, wi`,
           extra: `<i>every 2nd & 4th friday!</i>`,
           free: true,
@@ -88,7 +108,7 @@ export default {
         },
         {
           title: `<b>comedy clubhouse</b>`,
-          url: `https://www.ticketsource.com/whats-on/il/the-comedy-clubhouse/main-stage-stand-up-showcase/e-xjzjmg`,
+          url: `https://www.ticketsource.com/whats-on/il/the-comedy-clubhouse/main-stage-stand-up-showcase/e-bveelj`,
           date: `07/19/2025`,
           time: `9:30pm`
         },
@@ -122,12 +142,12 @@ export default {
           date: `07/11/2025`,
           time: `8:00pm`
         },
-        {
+       /* {
           title: `<b>chi lights</b> (comedy you deserve)<br/>at <b>the den theatre</b>`,
           extra: `more details to come`,
           date: `07/15/2025`,
           time: `7:00pm`
-        },
+        },*/
         {
           title: `live comedy<br/>at <b>o'callaghans</b>`,
           free: true,
