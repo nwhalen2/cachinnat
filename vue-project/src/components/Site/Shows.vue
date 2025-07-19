@@ -63,7 +63,7 @@ export default {
           time: `8:00pm`
         },
         {
-          title: `comedy show<br/>in <b>crystal city, mo</b>`,
+          title: `comedy show<br/>in <b>valley park, mo</b>`,
           extra: `STL comedy studio. <i>details to come.</i>`,
           date: `08/23/2025`,
         },
@@ -108,7 +108,7 @@ export default {
         },
         {
           title: `<b>comedy clubhouse</b>`,
-          url: `https://www.ticketsource.com/whats-on/il/the-comedy-clubhouse/main-stage-stand-up-showcase/e-bveelj`,
+          url: `https://www.ticketsource.com/thecomedyclubhouse?_gl=1%2Aa0wei7%2A_ga%2AMTg0OTY5MDM2LjE3MzQ4MDczMTg.%2A_ga_PWC2N31NS8%2AMTczNDgwNzMxNy4xLjAuMTczNDgwNzMxNy42MC4wLjA&fbclid=IwY2xjawLoydJleHRuA2FlbQIxMABicmlkETFuVEVhVEtBbzdxcU5wdnBUAR6xTSESXZTUixqb3DP5YdctM9MGogiQ4TG8xxzIzg9Cfy1VtoiEb9v00EOTYg_aem_V9HRX88mPApfPAPMujxYOw`,
           date: `07/19/2025`,
           time: `9:30pm`
         },
