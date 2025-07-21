@@ -68,6 +68,20 @@ export default {
           date: `08/23/2025`,
         },
         {
+          title: `the <b>love below</b> comedy show<br/>at <b>beermiscuous</b>`,
+          extra: `<i>every third thursday!</i>`,
+          free: true,
+          url: `https://www.instagram.com/thelovebelowcomedyshow/`,
+          date: `08/21/2025`,
+          time: `8:00pm`
+        },
+        {
+          title: `comedy show<br/>at "a Cafe off 47th and Ashland"`,
+          extra: `(i get two comps)`,
+          date: `08/21/2025`,
+          time: `7:30pm`
+        },
+        {
           title: `<b>the bridge is up</b><br/>at small world bar & grill on 106th st`,
           url: `https://www.instagram.com/justaguyproductions/`,
           free: true,
@@ -107,10 +121,40 @@ export default {
           time: `8:00pm`
         },
         {
+          title: `<b>crafted laughs</b><br/>in <b>lake geneva</b>, wi`,
+          extra: `<i>every 2nd & 4th friday!</i>`,
+          free: true,
+          url: `https://www.instagram.com/crafted.laughs/`,
+          date: `07/25/2025`,
+          time: `8:00pm`
+        },
+        {
+          title: `<b>laughing buddha comedy show</b><br/>at <b>eastville</b>`,
+          extra: `<b>nyc!</b>`,
+          free: true,
+          url: `https://www.eventbrite.com/e/ug-comedy-show-the-secret-pour-tickets-791620627607`,
+          date: `08/06/2025`,
+          time: `8:00pm`
+        },
+        {
+          title: `<b>ug comedy</b><br/>at <b>secret pour</b>`,
+          extra: `<b>nyc!</b>`,
+          url: `https://www.tickettailor.com/events/ugcomedy/1774265`,
+          date: `08/03/2025`,
+          time: `9:00pm`
+        },
+        {
           title: `<b>comedy clubhouse</b>`,
           url: `https://www.ticketsource.com/thecomedyclubhouse?_gl=1%2Aa0wei7%2A_ga%2AMTg0OTY5MDM2LjE3MzQ4MDczMTg.%2A_ga_PWC2N31NS8%2AMTczNDgwNzMxNy4xLjAuMTczNDgwNzMxNy42MC4wLjA&fbclid=IwY2xjawLoydJleHRuA2FlbQIxMABicmlkETFuVEVhVEtBbzdxcU5wdnBUAR6xTSESXZTUixqb3DP5YdctM9MGogiQ4TG8xxzIzg9Cfy1VtoiEb9v00EOTYg_aem_V9HRX88mPApfPAPMujxYOw`,
           date: `07/19/2025`,
           time: `9:30pm`
+        },
+        {
+          title: `<b>red room</b> comedy showcase`,
+          url: `https://www.redroomcomedyclub.com/`,
+          extra: `<i>hosting!</i>`,
+          date: `07/19/2025`,
+          time: `8:00pm`
         },
         {
           title: `<b>blackout diaries</b><br/>at lincoln lodge`,
