@@ -47,7 +47,7 @@ export default {
           time: `8:00pm`
         },
         {
-          title: `the <b>love below</b> comedy show<br/>at <b>beermiscuous</b>`,
+          title: `the <b>love below</b> comedy show at <b>beermiscuous</b>`,
           extra: `<i>every third thursday!</i>`,
           free: true,
           url: `https://www.instagram.com/thelovebelowcomedyshow/`,
@@ -67,20 +67,12 @@ export default {
           extra: `STL comedy studio. <i>details to come.</i>`,
           date: `08/23/2025`,
         },
-        {
-          title: `the <b>love below</b> comedy show<br/>at <b>beermiscuous</b>`,
-          extra: `<i>every third thursday!</i>`,
-          free: true,
-          url: `https://www.instagram.com/thelovebelowcomedyshow/`,
-          date: `08/21/2025`,
-          time: `8:00pm`
-        },
-        {
+       /* {
           title: `comedy show<br/>at "a Cafe off 47th and Ashland"`,
           extra: `(i get two comps)`,
           date: `08/21/2025`,
           time: `7:30pm`
-        },
+        },*/
         {
           title: `<b>the bridge is up</b><br/>at small world bar & grill on 106th st`,
           url: `https://www.instagram.com/justaguyproductions/`,
@@ -97,11 +89,17 @@ export default {
           time: `8:00pm`
         },
         {
-          title: `the <b>love below</b> comedy show<br/>at <b>beermiscuous</b>`,
+          title: `the <b>love below</b> comedy show at <b>beermiscuous</b>`,
           extra: `<i>every third thursday!</i>`,
           free: true,
           url: `https://www.instagram.com/thelovebelowcomedyshow/`,
           date: `08/21/2025`,
+          time: `8:00pm`
+        },
+        {
+          title: `<b>cannabesties</b> at the <b>salt shed</b>`,
+          url: `https://www.ticketleap.events/tickets/cannabesties/the-cannabesties-comedy-show-967402560?fbclid=PAZXh0bgNhZW0CMTEAAaecK9kfUzZvrHb6msMt1G3FCZnfS48vqZmmjvdYhC1FUcBrExJWOVLj0E3dJA_aem_jjURZPZvj9iJuv84K7yIiA`,
+          date: `08/17/2025`,
           time: `8:00pm`
         },
         {
@@ -121,6 +119,41 @@ export default {
           time: `8:00pm`
         },
         {
+          title: `<b>roast battle new york</b> at grove 34`,
+          extra: `<b>nyc!</b>`,
+          url: `https://www.grove34.com/event-details/roast-battle-league-ny-9`,
+          date: `08/06/2025`,
+          time: `8:30pm`
+        },
+        {
+          title: `<b>times square</b> comedy at the<b> comedy village</b>`,
+          extra: `<b>nyc!</b>`,
+          url: `https://comedyvillage.com/event/times-square-comedy-riess-temple-tue-aug-5th-930-pm/`,
+          date: `08/05/2025`,
+          time: `9:30pm`
+        },
+        {
+          title: `yakety katz comedy show at <b>the whiskey cellar</b>`,
+          extra: `<b>nyc!</b>`,
+          url: `https://www.eventbrite.com/e/yakety-katz-comedy-aug-3-430-tickets-1553326323849?aff=oddtdtcreator`,
+          date: `08/03/2025`,
+          time: `4:30pm`
+        },
+        {
+          title: `laughing buddha at <b>new york comedy club</b>`,
+          extra: `<b>nyc!</b>`,
+          url: `https://newyorkcomedyclub.com/events/laughing-buddha-comedy-ft-michael-fleming-daryn-passarello-chris-miceli-allie-feete-danny-palmer-tanner-simon`,
+          date: `08/03/2025`,
+          time: `6:00pm`
+        },
+        {
+          title: `<b>hush hush</b> comedy hour at the<b> lincoln lodge</b>`,
+          extra: `<i>guest spot</i>`,
+          url: `https://www.eventbrite.com/e/hush-hush-comedy-hour-tickets-734175036297?utm_experiment=test_share_listing&aff=ebdsshios&fbclid=PAZXh0bgNhZW0CMTEAAadVHQHppwtwbZ5sUBNV8kN2e__-BLdazyN8phUQMY1XJ2FOzQZIb2u62Zi9Lw_aem_uDH2Ivd6yN0z94WIe3YJbw`,
+          date: `07/30/2025`,
+          time: `8:00pm`
+        },
+        {
           title: `<b>crafted laughs</b><br/>in <b>lake geneva</b>, wi`,
           extra: `<i>every 2nd & 4th friday!</i>`,
           free: true,
@@ -128,20 +161,27 @@ export default {
           date: `07/25/2025`,
           time: `8:00pm`
         },
-        {
+       /* {
           title: `<b>laughing buddha comedy show</b><br/>at <b>eastville</b>`,
           extra: `<b>nyc!</b>`,
           free: true,
           url: `https://www.eventbrite.com/e/ug-comedy-show-the-secret-pour-tickets-791620627607`,
           date: `08/06/2025`,
           time: `8:00pm`
-        },
+        },*/
         {
           title: `<b>ug comedy</b><br/>at <b>secret pour</b>`,
           extra: `<b>nyc!</b>`,
-          url: `https://www.tickettailor.com/events/ugcomedy/1774265`,
+          url: `https://www.eventbrite.com/e/ug-comedy-show-the-secret-pour-tickets-791620627607`,
           date: `08/03/2025`,
           time: `9:00pm`
+        },
+        {
+          title: `laughing buddha <br/>at <b>st. mark's comedy club</b>`,
+          extra: `<b>nyc!</b>`,
+          url: `https://www.tickettailor.com/events/laughingbuddhacomedy/1774260`,
+          date: `08/05/2025`,
+          time: `7:30pm`
         },
         {
           title: `<b>comedy clubhouse</b>`,
@@ -164,7 +204,7 @@ export default {
           time: `10:00pm`
         },
         {
-          title: `the <b>love below</b> comedy show<br/>at <b>beermiscuous</b>`,
+          title: `the <b>love below</b> comedy show at <b>beermiscuous</b>`,
           extra: `<i>every third thursday!</i>`,
           free: true,
           url: `https://www.instagram.com/thelovebelowcomedyshow/`,
@@ -234,7 +274,7 @@ export default {
           time: `9:00pm`
         },
         {
-          title: `the <b>love below</b> comedy show<br/>at <b>beermiscuous</b>`,
+          title: `the <b>love below</b> comedy show at <b>beermiscuous</b>`,
           extra: `<i>every third thursday!</i>`,
           free: true,
           url: `https://www.instagram.com/thelovebelowcomedyshow/`,
@@ -292,7 +332,7 @@ export default {
           time: `7:00pm`
         },
         {
-          title: `the <b>love below</b> comedy show<br/>at <b>beermiscuous</b>`,
+          title: `the <b>love below</b> comedy show at <b>beermiscuous</b>`,
           extra: `<i>every third thursday!</i>`,
           free: true,
           url: `https://www.instagram.com/thelovebelowcomedyshow/`,
@@ -342,7 +382,7 @@ export default {
           time: `7:00pm`
         },
         {
-          title: `the <b>love below</b> comedy show<br/>at <b>beermiscuous</b>`,
+          title: `the <b>love below</b> comedy show at <b>beermiscuous</b>`,
           extra: `<i>every third thursday!</i>`,
           free: true,
           url: `https://www.instagram.com/thelovebelowcomedyshow/`,
@@ -397,7 +437,7 @@ export default {
           time: `8:00pm`
         },
         {
-          title: `the <b>love below</b> comedy show<br/>at <b>beermiscuous</b>`,
+          title: `the <b>love below</b> comedy show at <b>beermiscuous</b>`,
           extra: `hosting!`,
           free: true,
           url: `https://www.instagram.com/p/DHLs-PlA-mu/`,
@@ -405,7 +445,7 @@ export default {
           time: `8:00pm`
         },
         {
-          title: `the <b>love below</b> comedy show<br/>at <b>beermiscuous</b>`,
+          title: `the <b>love below</b> comedy show at <b>beermiscuous</b>`,
           extra: `hosting!`,
           free: true,
           url: `https://www.instagram.com/p/DFqdfblSCIj/`,
