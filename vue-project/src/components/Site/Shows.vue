@@ -47,6 +47,12 @@ export default {
           time: `8:00pm`
         },
         {
+          title: `late night mic<br/>at <b>the comedy bar</b>`,
+          url: `https://www.eventbrite.com/e/monday-september-22-late-nite-mic-with-vik-pandya-tickets-1448283186999?aff=odcleoeventsincollection`,
+          date: `09/22/2025`,
+          time: `7:30pm`
+        },
+        {
           title: `the <b>love below</b> comedy show at <b>beermiscuous</b>`,
           extra: `<i>every third thursday!</i>`,
           free: true,
