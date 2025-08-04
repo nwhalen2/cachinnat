@@ -132,11 +132,19 @@ export default {
           time: `8:30pm`
         },
         {
-          title: `<b>times square</b> comedy at the<b> comedy village</b>`,
+          title: `<b>times square</b> comedy at <b> comedy village</b>`,
           extra: `<b>nyc!</b>`,
           url: `https://comedyvillage.com/event/times-square-comedy-riess-temple-tue-aug-5th-930-pm/`,
           date: `08/05/2025`,
           time: `9:30pm`
+        },
+        {
+          title: `<b>the comedy shop</b> in greenwich village`,
+          free: true,
+          extra: `<b>nyc!</b>`,
+          url: `https://comedyshopnyc.com/event-details/?id=5d58fcde-86b1-48c9-834a-a4b20afa2f97&date=1754280000`,
+          date: `08/04/2025`,
+          time: `8:00pm`
         },
         {
           title: `yakety katz comedy show at <b>the whiskey cellar</b>`,
