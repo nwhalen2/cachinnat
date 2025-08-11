@@ -117,6 +117,12 @@ export default {
           time: `4:30pm`
         },
         {
+          title: `<b>comic court</b> at the <b>lincoln lodge</b>`,
+          url: `https://www.eventbrite.com/e/comic-court-chicagos-1-comedy-court-show-tickets-1442149872089`,
+          date: `08/12/2025`,
+          time: `9:00pm`
+        },
+        {
           title: `<b>crafted laughs</b><br/>in <b>lake geneva</b>, wi`,
           extra: `<i>every 2nd & 4th friday!</i>`,
           free: true,
