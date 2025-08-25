@@ -39,6 +39,12 @@ export default {
       showPast: false,
       allShows: [
         {
+          title: `<b>taco bout it tuesday</b> at the crib`,
+          extra: `taco trucks & comedy at a new comedy club located at 2715 w madison st`,
+          date: `09/30/2025`,
+          time: `7:00pm`
+        },
+        {
           title: `<b>crafted laughs</b><br/>in <b>lake geneva</b>, wi`,
           extra: `<i>every 2nd & 4th friday!</i>`,
           free: true,
@@ -67,6 +73,20 @@ export default {
           url: `https://www.instagram.com/crafted.laughs/`,
           date: `09/12/2025`,
           time: `8:00pm`
+        },
+        {
+          title: `<b>SIT. STAY. STANDUP.</b> at the john david mooney foundation`,
+          extra: `<b>! my big birthday show !</b>`,
+          free: true,
+          url: `https://docs.google.com/forms/d/e/1FAIpQLSdInk0sQd354PK79f2g1cJIuS8PHkh7Pcr0sbMFiAqCXBW7fA/viewform`,
+          date: `09/04/2025`,
+          time: `6:30pm`
+        },
+        {
+          title: `<b>chirp radio</b> comedy panel & showcase`,
+          url: `https://chirpradio.org/cid`,
+          date: `08/24/2025`,
+          time: `3 - 4:30pm`
         },
         {
           title: `<b>midsummer cash bash</b> at surge billiards`,
