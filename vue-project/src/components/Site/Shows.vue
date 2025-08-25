@@ -69,10 +69,17 @@ export default {
           time: `8:00pm`
         },
         {
+          title: `<b>midsummer cash bash</b> at surge billiards`,
+          extra: `you could win $100!`,
+          url: `https://www.eventbrite.com/e/midsummer-cash-bash-tickets-1563703702869?fbclid=PAZXh0bgNhZW0CMTEAAac6OiezVElanrN8rCEenR73uhRz5KoA3FSK8VQdhyyqOf-hMjUcTKSWy60PuQ_aem_GPj6ADBX-d_BOnCwFUQY9A`,
+          date: `08/23/2025`,
+          time: `8:00pm`
+        },
+        /*{
           title: `comedy show<br/>in <b>valley park, mo</b>`,
           extra: `STL comedy studio. <i>details to come.</i>`,
           date: `08/23/2025`,
-        },
+        },*/
        /* {
           title: `comedy show<br/>at "a Cafe off 47th and Ashland"`,
           extra: `(i get two comps)`,
@@ -115,6 +122,11 @@ export default {
           url: `https://www.eventbrite.com/e/rolling-with-the-punchlines-comedy-show-open-mic-tickets-1474950830639?aff=oddtdtcreator`,
           date: `08/16/2025`,
           time: `4:30pm`
+        },
+        {
+          title: `comedy show at an apartment in river north`,
+          date: `08/14/2025`,
+          time: `6:00pm`
         },
         {
           title: `<b>comic court</b> at the <b>lincoln lodge</b>`,

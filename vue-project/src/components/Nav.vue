@@ -20,6 +20,13 @@ const chirp = '(also i DJ for chirp radio 107.1FM 6-9am every monday morning!!)'
             <RouterLink class="navitem p-2 bg-nav" to="/shows">shows</RouterLink>
         </nav>
     </div-->
+    <div >
+        <a 
+        href="https://docs.google.com/forms/d/e/1FAIpQLSdInk0sQd354PK79f2g1cJIuS8PHkh7Pcr0sbMFiAqCXBW7fA/viewform" 
+        target="_blank" 
+        class="mb-3 mb-md-5 p-2 d-flex align-items-center justify-content-center mx-auto">
+            <img src="../assets/images/SitStayStandUp.png" alt="Sit. Stay. Stand Up." class="col-8 col-md-6 col-lg-4 "/>
+        </a>
     <div class="d-flex">
         <div class="d-none d-md-block col-md-1 col-lg-3"></div>
         <div class="col-12 col-md-6 col-lg-4 border border border-warning p-4 text-center" v-html="intro1"></div>
@@ -32,6 +39,7 @@ const chirp = '(also i DJ for chirp radio 107.1FM 6-9am every monday morning!!)'
         <div class="w-75 w-md-100 float-end border border-warning p-2" v-html="chirp"></div>
     </div-->
     <RouterView />
+</div>
 </template>
 
 <style scoped>
