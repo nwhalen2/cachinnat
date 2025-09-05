@@ -39,6 +39,13 @@ export default {
       showPast: false,
       allShows: [
         {
+          title: `<b>roast battle chicago</b> at zanies`,
+          extra: `zanies chicago debut :D`,
+          url: `https://www.etix.com/ticket/p/70533661/roast-battle-chicago-chicago-zanies-chicago?language=en&amp;country=US&amp;searchType=venue`,
+          date: `10/02/2025`,
+          time: `9:15pm`
+        },
+        {
           title: `<b>taco bout it tuesday</b> at the crib`,
           extra: `taco trucks & comedy at a new comedy club located at 2715 w madison st`,
           date: `09/30/2025`,
@@ -53,10 +60,15 @@ export default {
           time: `8:00pm`
         },
         {
-          title: `late night mic<br/>at <b>the comedy bar</b>`,
-          url: `https://www.eventbrite.com/e/monday-september-22-late-nite-mic-with-vik-pandya-tickets-1448283186999?aff=odcleoeventsincollection`,
-          date: `09/22/2025`,
-          time: `7:30pm`
+          title: `<b>buckets</b> at burton place`,
+          free: true,
+          date: `09/15/2025`,
+          time: `7:00pm`
+        },
+        {
+          title: `comedy + open mic at <b>reggie's</b> rock club`,
+          date: `09/08/2025`,
+          time: `7:00pm`
         },
         {
           title: `the <b>love below</b> comedy show at <b>beermiscuous</b>`,
@@ -65,6 +77,12 @@ export default {
           url: `https://www.instagram.com/thelovebelowcomedyshow/`,
           date: `09/18/2025`,
           time: `8:00pm`
+        },
+        {
+          title: `late night mic<br/>at <b>the comedy bar</b>`,
+          url: `https://www.eventbrite.com/e/monday-september-22-late-nite-mic-with-vik-pandya-tickets-1448283186999?aff=odcleoeventsincollection`,
+          date: `09/22/2025`,
+          time: `7:30pm`
         },
         {
           title: `<b>crafted laughs</b><br/>in <b>lake geneva</b>, wi`,
