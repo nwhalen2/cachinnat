@@ -46,6 +46,11 @@ export default {
           time: `9:15pm`
         },
         {
+          title: `comedy at <b>reggie's</b> rock club`,
+          date: `09/29/2025`,
+          time: `7:00pm`
+        },
+        {
           title: `<b>taco bout it tuesday</b> at the crib`,
           extra: `taco trucks & comedy at a new comedy club located at 2715 w madison st`,
           date: `09/30/2025`,
@@ -63,11 +68,6 @@ export default {
           title: `<b>buckets</b> at burton place`,
           free: true,
           date: `09/15/2025`,
-          time: `7:00pm`
-        },
-        {
-          title: `comedy + open mic at <b>reggie's</b> rock club`,
-          date: `09/08/2025`,
           time: `7:00pm`
         },
         {
