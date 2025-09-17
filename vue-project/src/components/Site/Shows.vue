@@ -39,6 +39,20 @@ export default {
       showPast: false,
       allShows: [
         {
+          title: `the <b>love below</b> comedy show at <b>beermiscuous</b>`,
+          extra: `<i>every third thursday!</i>`,
+          free: true,
+          url: `https://www.instagram.com/thelovebelowcomedyshow/`,
+          date: `10/16/2025`,
+          time: `8:00pm`
+        },
+        {
+          title: `where the green line ends at <b>comedy plex</b>`,
+          url: `https://www.comedyplex.com/event/where-the-green-line-ends-614/register`,
+          date: `10/03/2025`,
+          time: `10:00pm`,
+        },
+        {
           title: `<b>roast battle chicago</b> at zanies`,
           extra: `zanies chicago debut :D`,
           url: `https://www.etix.com/ticket/p/70533661/roast-battle-chicago-chicago-zanies-chicago?language=en&amp;country=US&amp;searchType=venue`,
@@ -47,15 +61,17 @@ export default {
         },
         {
           title: `comedy at <b>reggie's</b> rock club`,
+          free: true,
           date: `09/29/2025`,
-          time: `7:00pm`
+          time: `7:00pm`,
+          url: `https://www.reggieslive.com/show/blake-burkharts-comedy-zacks-open-mic-99/`
         },
-        {
+        /*{
           title: `<b>taco bout it tuesday</b> at the crib`,
           extra: `taco trucks & comedy at a new comedy club located at 2715 w madison st`,
           date: `09/30/2025`,
           time: `7:00pm`
-        },
+        },*/
         {
           title: `<b>crafted laughs</b><br/>in <b>lake geneva</b>, wi`,
           extra: `<i>every 2nd & 4th friday!</i>`,
@@ -296,12 +312,12 @@ export default {
           date: `07/11/2025`,
           time: `8:00pm`
         },
-       /* {
+        {
           title: `<b>chi lights</b> (comedy you deserve)<br/>at <b>the den theatre</b>`,
           extra: `more details to come`,
-          date: `07/15/2025`,
+          date: `11/22/2025`,
           time: `7:00pm`
-        },*/
+        },
         {
           title: `live comedy<br/>at <b>o'callaghans</b>`,
           free: true,
