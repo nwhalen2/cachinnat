@@ -60,6 +60,14 @@ export default {
           time: `9:15pm`
         },
         {
+          title: `<b>let's get randy</b> at randall's in edgewater`,
+          extra: `<b>6341 n clark st</b>`,
+          url: `https://www.instagram.com/randalls_pub/?hl=en`,
+          free: true,
+          date: `10/01/2025`,
+          time: `8:00pm`
+        },
+        {
           title: `comedy at <b>reggie's</b> rock club`,
           free: true,
           date: `09/29/2025`,
