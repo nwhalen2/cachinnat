@@ -25,7 +25,7 @@ export default {
                 {
                     name: `linkedin-icon`,
                     icon: `linkedin`,
-                    url: `https://www.linkedin.com/in/natalie-whalen-7574b0166/`,
+                    url: `https://www.linkedin.com/in/natalie-n-whalen/`,
                 }
             ]
         }
