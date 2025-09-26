@@ -1,6 +1,6 @@
 <template>
   <div class="text-center">
-    <h5 class="title my-4">full show schedule</h5>
+    <h5 class="title my-4">full schedule</h5>
     <div class="flex justify-center align-items-center">
       <button 
       class="p-2 me-4 border border-dark rounded text-uppercase text-dark"
@@ -43,6 +43,45 @@ export default {
           extra: `<i>every third thursday!</i>`,
           free: true,
           url: `https://www.instagram.com/thelovebelowcomedyshow/`,
+          date: `11/20/2025`,
+          time: `8:00pm`
+        },
+        {
+          title: `<b>oxymorons</b> sketch comedy show at <b>second city</b>`,
+          url: `https://www.secondcity.com/shows/chicago/oxymorons-wickedly-wacky-chi/`,
+          date: `10/19/2025`,
+          time: `7:30pm`
+        },
+        {
+          title: `<b>oxymorons</b> sketch comedy show at <b>second city</b>`,
+          url: `https://www.secondcity.com/shows/chicago/oxymorons-wickedly-wacky-chi/`,
+          date: `10/26/2025`,
+          time: `7:30pm`
+        },
+        {
+          title: `<b>oxymorons</b> sketch comedy show at <b>second city</b>`,
+          url: `https://www.secondcity.com/shows/chicago/oxymorons-wickedly-wacky-chi/`,
+          date: `10/05/2025`,
+          time: `7:30pm`
+        },
+        {
+          title: `<b>blind wolf comedy</b> at trader todd's speakeasy`,
+          extra: `free!`,
+          free: true,date: `10/08/2025`,
+          time: `10:00pm`
+        },
+        {
+          title: `<b>roast battle fall tournament</b> at zanies rosemont`,
+          extra: `zanies chicago debut :D`,
+          url: `https://www.etix.com/ticket/p/70533661/roast-battle-chicago-chicago-zanies-chicago?language=en&amp;country=US&amp;searchType=venue`,
+          date: `10/07/2025`,
+          time: `7:00pm`
+        },
+        {
+          title: `the <b>love below</b> comedy show at <b>beermiscuous</b>`,
+          extra: `<i>every third thursday!</i>`,
+          free: true,
+          url: `https://www.instagram.com/thelovebelowcomedyshow/`,
           date: `10/16/2025`,
           time: `8:00pm`
         },
@@ -53,7 +92,7 @@ export default {
           time: `10:00pm`,
         },
         {
-          title: `<b>roast battle chicago</b> at zanies`,
+          title: `<b>roast battle chicago</b> at <b>zanies</b>`,
           extra: `zanies chicago debut :D`,
           url: `https://www.etix.com/ticket/p/70533661/roast-battle-chicago-chicago-zanies-chicago?language=en&amp;country=US&amp;searchType=venue`,
           date: `10/02/2025`,
@@ -82,7 +121,7 @@ export default {
         },*/
         {
           title: `<b>crafted laughs</b><br/>in <b>lake geneva</b>, wi`,
-          extra: `<i>every 2nd & 4th friday!</i>`,
+          extra: `<i>last show of the summer!</i>`,
           free: true,
           url: `https://www.instagram.com/crafted.laughs/`,
           date: `09/26/2025`,
