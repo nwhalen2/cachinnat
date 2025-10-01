@@ -64,10 +64,17 @@ export default {
           date: `10/05/2025`,
           time: `7:30pm`
         },
+				{
+					title: `what could go wrong?<br/>at <b>the laugh factory</b>`,
+					url: `https://laughfactorychicago.standuptix.com/events/what-could-go-wrong-3`,
+					date: `10/09/2025`,
+          time: `9:00pm`
+				},
         {
           title: `<b>blind wolf comedy</b> at trader todd's speakeasy`,
           extra: `free!`,
-          free: true,date: `10/08/2025`,
+          free: true,
+					date: `10/08/2025`,
           time: `10:00pm`
         },
         {
