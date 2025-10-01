@@ -26,6 +26,12 @@ jobs:
         run: npm run build
         working-directory: ./vue-project
 
+      - name: Set Git user name
+        run: git config --global user.name "github-actions[bot]"
+
+      - name: Set Git user email
+        run: git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
       - name: Run deploy script
         run: npm run deploy
         working-directory: ./vue-project
