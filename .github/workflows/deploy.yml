@@ -22,6 +22,10 @@ jobs:
         run: npm install
         working-directory: ./vue-project
 
+      - name: Compile & minify for production
+        run: npm run build
+        working-directory: ./vue-project
+
       - name: Run deploy script
         run: npm run deploy
         working-directory: ./vue-project
