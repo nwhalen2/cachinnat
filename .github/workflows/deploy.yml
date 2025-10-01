@@ -33,8 +33,8 @@ jobs:
         run: git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
       - name: Deploy to GitHub Pages
+        working-directory: ./vue-project
         run: npm run deploy
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          working-directory: ./vue-project
 
