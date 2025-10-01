@@ -34,7 +34,8 @@ jobs:
 
       - name: Deploy to GitHub Pages
         working-directory: ./vue-project
-        run: npm run deploy
+        run: |
+          npx gh-pages -d dist -r https://x-access-token:${GH_TOKEN}@github.com/nwhalen2/cachinnat.git
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
