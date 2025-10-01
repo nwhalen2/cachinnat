@@ -3,7 +3,7 @@ name: Deploy Vue project with npm deploy
 on:
   push:
     branches:
-      - main  # or your default branch
+      - master
 
 jobs:
   deploy:
