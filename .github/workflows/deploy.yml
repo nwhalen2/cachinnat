@@ -36,5 +36,5 @@ jobs:
         run: npm run deploy
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          working-directory: ./vue-projecy
+          working-directory: ./vue-project
 
