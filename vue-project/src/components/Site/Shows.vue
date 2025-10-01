@@ -46,6 +46,12 @@ export default {
           date: `11/20/2025`,
           time: `8:00pm`
         },
+			{
+				title: `<b>tight ship comedy</b>at half sour chicago`,
+				url: `https://www.eventbrite.com/e/tight-ship-comedy-a-live-stand-up-comedy-show-tickets-169028531889?aff=ebdsoporgprofile&fbclid=PAVERFWANKgfBleHRuA2FlbQExAAGnvZYKCASvI98aRioY6UjISyOHS4zpbys-UZ3Xz_xRc9Z2F2hJNfmlkfHcuy8_aem_J8ZUTeMy7ozS-Y3xZngzYg`,
+				date: `11/06/2025`,
+        time: `8:00pm`
+			},
         {
           title: `<b>oxymorons</b> sketch comedy show at <b>second city</b>`,
           url: `https://www.secondcity.com/shows/chicago/oxymorons-wickedly-wacky-chi/`,
@@ -64,12 +70,12 @@ export default {
           date: `10/05/2025`,
           time: `7:30pm`
         },
-				{
-					title: `what could go wrong?<br/>at <b>the laugh factory</b>`,
-					url: `https://laughfactorychicago.standuptix.com/events/what-could-go-wrong-3`,
-					date: `10/09/2025`,
-          time: `9:00pm`
-				},
+			{
+				title: `what could go wrong?<br/>at <b>the laugh factory</b>`,
+				url: `https://laughfactorychicago.standuptix.com/events/what-could-go-wrong-3`,
+				date: `10/09/2025`,
+        time: `9:00pm`
+			},
         {
           title: `<b>blind wolf comedy</b> at trader todd's speakeasy`,
           extra: `free!`,
@@ -92,6 +98,12 @@ export default {
           date: `10/16/2025`,
           time: `8:00pm`
         },
+			{
+				title: `headlining!<br/>at <b>the drop comedy club</b>`,
+				url: `https://www.eventbrite.com/e/the-drop-presents-shhhhhh-its-a-surprise-comedy-show-tickets-1753155578529?aff=oddtdtcreator&fbclid=PAVERFWANKgXBleHRuA2FlbQIxMAABp072vds_CUbNoUXhW0bcOMoQ8vVXlA-7-7qe7fvLiYBnMrF7Kze7HVVurDqL_aem_q2YhxqAu5ofg4etLkq56dA`,
+				date: `10/04/2025`,
+        time: `8:00pm`
+			},
         {
           title: `where the green line ends at <b>comedy plex</b>`,
           url: `https://www.comedyplex.com/event/where-the-green-line-ends-614/register`,
