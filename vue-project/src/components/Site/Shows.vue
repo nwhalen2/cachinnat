@@ -85,7 +85,6 @@ export default {
         },
         {
           title: `<b>roast battle fall tournament</b> at zanies rosemont`,
-          extra: `zanies chicago debut :D`,
           url: `https://www.etix.com/ticket/p/70533661/roast-battle-chicago-chicago-zanies-chicago?language=en&amp;country=US&amp;searchType=venue`,
           date: `10/07/2025`,
           time: `7:00pm`
