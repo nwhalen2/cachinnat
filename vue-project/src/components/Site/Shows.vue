@@ -47,7 +47,7 @@ export default {
           time: `8:00pm`
         },
 			{
-				title: `<b>tight ship comedy</b>at half sour chicago`,
+				title: `<b>tight ship comedy</b> at half sour chicago`,
 				url: `https://www.eventbrite.com/e/tight-ship-comedy-a-live-stand-up-comedy-show-tickets-169028531889?aff=ebdsoporgprofile&fbclid=PAVERFWANKgfBleHRuA2FlbQExAAGnvZYKCASvI98aRioY6UjISyOHS4zpbys-UZ3Xz_xRc9Z2F2hJNfmlkfHcuy8_aem_J8ZUTeMy7ozS-Y3xZngzYg`,
 				date: `11/06/2025`,
         time: `8:00pm`
