@@ -131,6 +131,12 @@ export default {
           date: `10/26/2025`,
           time: `7:30pm`
         },
+		{
+          title: `<b>wildcat comedy</b> in lexington, ky`,
+          url: `https://www.instagram.com/wildcatcomedyco/?hl=en`,
+          date: `10/16/2025`,
+          time: `8:00pm`
+        },
         {
           title: `<b>oxymorons</b> sketch comedy show at <b>second city</b>`,
           url: `https://www.secondcity.com/shows/chicago/oxymorons-wickedly-wacky-chi/`,
