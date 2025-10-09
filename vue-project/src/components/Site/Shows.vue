@@ -38,6 +38,38 @@ export default {
     return {
       showPast: false,
       allShows: [
+		{
+			title: `<b>chi lights</b> (comedy you deserve)<br/>at <b>the den theatre</b>`,
+          	extra: `more details to come`,
+          	date: `12/19/2025`,
+          	time: `7:00pm`
+		},
+		{
+          title: `<b>crafted laughs</b><br/>in <b>lake geneva</b>, wi`,
+          extra: `<i>winter show!</i>`,
+          free: true,
+          url: `https://www.instagram.com/crafted.laughs/`,
+          date: `12/13/2025`,
+          time: `6:00pm`
+        },
+		{
+          title: `<b>please like me</b> comedy showcase at <b>uptown taproom</b>`,
+          url: `https://www.eventbrite.com/e/please-like-me-comedy-showcase-tickets-1732660978629?aff=erelpanelorg`,
+          date: `12/12/2025`,
+          time: `8:00pm`
+        },
+		{
+          title: `<b>wow, you're actually funny!</b><br/>at surge billiards`,
+          extra: `more details to come`,
+          date: `12/06/2025`,
+          time: `8:00pm`
+        },
+		{
+			title: `<b>one liner madness</b><br/>at iO theater`,
+          	extra: `more details to come`,
+          	date: `11/22/2025`,
+          	time: `8:00pm`
+		},
         {
           title: `the <b>love below</b> comedy show at <b>beermiscuous</b>`,
           extra: `<i>every third thursday!</i>`,
@@ -46,12 +78,47 @@ export default {
           date: `11/20/2025`,
           time: `8:00pm`
         },
-			{
-				title: `<b>tight ship comedy</b> at half sour chicago`,
-				url: `https://www.eventbrite.com/e/tight-ship-comedy-a-live-stand-up-comedy-show-tickets-169028531889?aff=ebdsoporgprofile&fbclid=PAVERFWANKgfBleHRuA2FlbQExAAGnvZYKCASvI98aRioY6UjISyOHS4zpbys-UZ3Xz_xRc9Z2F2hJNfmlkfHcuy8_aem_J8ZUTeMy7ozS-Y3xZngzYg`,
-				date: `11/06/2025`,
-        time: `8:00pm`
-			},
+		{
+          title: `fall show shuffle<br/>at <b>second city</b>`,
+          extra: `<i>guess which comedians perform each other's 3 minute sets</i>`,
+          url: `https://secondcityus.my.salesforce-sites.com/ticket/#/instances/a0FTP000004KXAP2A4`,
+          date: `11/23/2025`,
+          time: `9:00pm`
+        },
+		{
+          title: `fall show shuffle<br/>at <b>second city</b>`,
+          extra: `<i>guess which comedians perform each other's 3 minute sets</i>`,
+          url: `https://secondcityus.my.salesforce-sites.com/ticket/#/instances/a0FTP000004KX8n2AG`,
+          date: `11/16/2025`,
+          time: `9:00pm`
+        },
+		{
+          title: `fall show shuffle<br/>at <b>second city</b>`,
+          extra: `<i>guess which comedians perform each other's 3 minute sets</i>`,
+          url: `https://secondcityus.my.salesforce-sites.com/ticket/#/instances/a0FTP000004KX5Z2AW`,
+          date: `11/09/2025`,
+          time: `9:00pm`
+        },
+		{
+          title: `fall show shuffle<br/>at <b>second city</b>`,
+          extra: `<i>guess which comedians perform each other's 3 minute sets</i>`,
+          url: `https://secondcityus.my.salesforce-sites.com/ticket/#/instances/a0FTP000004KX3x2AG`,
+          date: `11/02/2025`,
+          time: `9:00pm`
+        },
+		{
+          title: `fall show shuffle<br/>at <b>second city</b>`,
+          extra: `<i>guess which comedians perform each other's 3 minute sets</i>`,
+          url: `https://secondcityus.my.salesforce-sites.com/ticket/#/instances/a0FTP000004KWsf2AG`,
+          date: `10/26/2025`,
+          time: `9:00pm`
+        },
+		{
+			title: `<b>tight ship comedy</b> at half sour chicago`,
+			url: `https://www.eventbrite.com/e/tight-ship-comedy-a-live-stand-up-comedy-show-tickets-169028531889?aff=ebdsoporgprofile&fbclid=PAVERFWANKgfBleHRuA2FlbQExAAGnvZYKCASvI98aRioY6UjISyOHS4zpbys-UZ3Xz_xRc9Z2F2hJNfmlkfHcuy8_aem_J8ZUTeMy7ozS-Y3xZngzYg`,
+			date: `11/06/2025`,
+	        time: `8:00pm`
+		},
         {
           title: `<b>oxymorons</b> sketch comedy show at <b>second city</b>`,
           url: `https://www.secondcity.com/shows/chicago/oxymorons-wickedly-wacky-chi/`,
@@ -70,39 +137,45 @@ export default {
           date: `10/05/2025`,
           time: `7:30pm`
         },
-			{
-				title: `what could go wrong?<br/>at <b>the laugh factory</b>`,
-				url: `https://laughfactorychicago.standuptix.com/events/what-could-go-wrong-3`,
-				date: `10/09/2025`,
-        time: `9:00pm`
-			},
+		{
+          title: `<b>roast battle fall tournament (sweet sixteen)</b> at zanies rosemont`,
+          url: https://www.etix.com/ticket/p/51106870/roast-battle-tournament-rosemont-zanies-rosemont`,
+          date: `10/14/2025`,
+          time: `7:00pm`
+        },
+		{
+			title: `what could go wrong?<br/>at <b>the laugh factory</b>`,
+			url: `https://laughfactorychicago.standuptix.com/events/what-could-go-wrong-3`,
+			date: `10/09/2025`,
+        	time: `9:00pm`
+		},
         {
-          title: `<b>blind wolf comedy</b> at trader todd's speakeasy`,
-          extra: `free!`,
-          free: true,
-					date: `10/08/2025`,
-          time: `10:00pm`
+          	title: `<b>blind wolf comedy</b> at trader todd's speakeasy`,
+          	extra: `free!`,
+          	free: true,
+			date: `10/08/2025`,
+          	time: `10:00pm`
         },
         {
-          title: `<b>roast battle fall tournament</b> at zanies rosemont`,
-          url: `https://www.etix.com/ticket/p/70533661/roast-battle-chicago-chicago-zanies-chicago?language=en&amp;country=US&amp;searchType=venue`,
+          title: `<b>roast battle fall tournament (prelims)</b> at zanies rosemont`,
+          url: `https://roastbattlechicago.com/comedyshowtickets/roastbattlechicago-e6dbr-yc8jw-hh8g5-bwyel-nrgh5-dm2yf-3892h-5grls-r5pdl-jnrf7-5l8h4-mweee-jjsxa-c6lah`,
           date: `10/07/2025`,
           time: `7:00pm`
         },
         {
-          title: `the <b>love below</b> comedy show at <b>beermiscuous</b>`,
+          title: `<s>the love below comedy show</s><br/>guest host: marcos cirino`,
           extra: `<i>every third thursday!</i>`,
           free: true,
           url: `https://www.instagram.com/thelovebelowcomedyshow/`,
           date: `10/16/2025`,
           time: `8:00pm`
         },
-			{
-				title: `headlining!<br/>at <b>the drop comedy club</b>`,
-				url: `https://www.eventbrite.com/e/the-drop-presents-shhhhhh-its-a-surprise-comedy-show-tickets-1753155578529?aff=oddtdtcreator&fbclid=PAVERFWANKgXBleHRuA2FlbQIxMAABp072vds_CUbNoUXhW0bcOMoQ8vVXlA-7-7qe7fvLiYBnMrF7Kze7HVVurDqL_aem_q2YhxqAu5ofg4etLkq56dA`,
-				date: `10/04/2025`,
-        time: `8:00pm`
-			},
+		{
+			title: `headlining!<br/>at <b>the drop comedy club</b>`,
+			url: `https://www.eventbrite.com/e/the-drop-presents-shhhhhh-its-a-surprise-comedy-show-tickets-1753155578529?aff=oddtdtcreator&fbclid=PAVERFWANKgXBleHRuA2FlbQIxMAABp072vds_CUbNoUXhW0bcOMoQ8vVXlA-7-7qe7fvLiYBnMrF7Kze7HVVurDqL_aem_q2YhxqAu5ofg4etLkq56dA`,
+			date: `10/04/2025`,
+        	time: `8:00pm`
+		},
         {
           title: `where the green line ends at <b>comedy plex</b>`,
           url: `https://www.comedyplex.com/event/where-the-green-line-ends-614/register`,
@@ -376,12 +449,6 @@ export default {
           url: `https://www.instagram.com/crafted.laughs/`,
           date: `07/11/2025`,
           time: `8:00pm`
-        },
-        {
-          title: `<b>chi lights</b> (comedy you deserve)<br/>at <b>the den theatre</b>`,
-          extra: `more details to come`,
-          date: `11/22/2025`,
-          time: `7:00pm`
         },
         {
           title: `live comedy<br/>at <b>o'callaghans</b>`,
