@@ -139,7 +139,7 @@ export default {
         },
 		{
           title: `<b>roast battle fall tournament (sweet sixteen)</b> at zanies rosemont`,
-          url: https://www.etix.com/ticket/p/51106870/roast-battle-tournament-rosemont-zanies-rosemont`,
+          url: `https://www.etix.com/ticket/p/51106870/roast-battle-tournament-rosemont-zanies-rosemont`,
           date: `10/14/2025`,
           time: `7:00pm`
         },
