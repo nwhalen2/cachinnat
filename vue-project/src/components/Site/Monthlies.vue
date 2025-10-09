@@ -14,7 +14,7 @@
         <a 
         href="https://roastbattlechicago.com/comedyshowtickets/roastbattlechicago-e6dbr-yc8jw-hh8g5-bwyel-nrgh5-dm2yf-3892h-5grls-r5pdl-jnrf7-5l8h4-mweee-jjsxa-c6lah-kye74" 
         target="_blank" >
-        <img class="img-fluid" src="../../assets/images/roastbattle_falltournament.jpeg" alt="roast battle fall tournament" />
+        <img class="img-fluid" src="../../assets/images/roastbattle_fall_sixteen.jpg" alt="roast battle fall tournament" />
       </a>
       <div class="mt-auto">roast battle chicago fall tournament</div>
       </div>
