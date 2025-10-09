@@ -107,13 +107,6 @@ export default {
           time: `9:00pm`
         },
 		{
-          title: `fall show shuffle<br/>at <b>second city</b>`,
-          extra: `<i>guess which comedians perform each other's 3 minute sets</i>`,
-          url: `https://secondcityus.my.salesforce-sites.com/ticket/#/instances/a0FTP000004KWsf2AG`,
-          date: `10/26/2025`,
-          time: `9:00pm`
-        },
-		{
 			title: `<b>tight ship comedy</b> at half sour chicago`,
 			url: `https://www.eventbrite.com/e/tight-ship-comedy-a-live-stand-up-comedy-show-tickets-169028531889?aff=ebdsoporgprofile&fbclid=PAVERFWANKgfBleHRuA2FlbQExAAGnvZYKCASvI98aRioY6UjISyOHS4zpbys-UZ3Xz_xRc9Z2F2hJNfmlkfHcuy8_aem_J8ZUTeMy7ozS-Y3xZngzYg`,
 			date: `11/06/2025`,
@@ -130,6 +123,13 @@ export default {
           url: `https://www.secondcity.com/shows/chicago/oxymorons-wickedly-wacky-chi/`,
           date: `10/26/2025`,
           time: `7:30pm`
+        },
+		{
+          title: `fall show shuffle<br/>at <b>second city</b>`,
+          extra: `<i>guess which comedians perform each other's 3 minute sets</i>`,
+          url: `https://secondcityus.my.salesforce-sites.com/ticket/#/instances/a0FTP000004KWsf2AG`,
+          date: `10/26/2025`,
+          time: `9:00pm`
         },
 		{
           title: `<b>wildcat comedy</b> in lexington, ky`,
