@@ -132,12 +132,6 @@ export default {
           time: `9:00pm`
         },
 		{
-          title: `<b>wildcat comedy</b> in lexington, ky`,
-          url: `https://www.instagram.com/wildcatcomedyco/?hl=en`,
-          date: `10/16/2025`,
-          time: `8:00pm`
-        },
-		{
           title: `pimp daddy's six sided circus<br/>at the <b>lincoln lodge</b>`,
           extra: `<i>watch a giant die decide a comic's fate</i>`,
           free: true,
@@ -146,7 +140,7 @@ export default {
           time: `09:00pm`
         },
 		{
-          title: `<b>thursday night laughs</b> at ethereal public house in lexington, <b>kentucky</b>`,
+          title: `thursday night laughs with wildcat comedy in <b>lexington, ky</b>`,
           free: true,
           url: `https://www.wildcatcomedy.co/`,
           date: `10/16/2025`,
