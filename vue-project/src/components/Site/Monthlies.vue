@@ -28,14 +28,14 @@
         </a>
         <div class="mt-2">[new title]</div>
       </div>
-      <!--div class="bg-orange-25 rounded col-6 col-md-4 mx-md-4 p-4 d-flex flex-column">
+      <div class="bg-orange-25 rounded col-6 col-md-4 mx-md-4 p-4 d-flex flex-column">
         <a 
         href="https://www.instagram.com/crafted.laughs/" 
         target="_blank">
           <img class="img-fluid" src="../../assets/images/craftedlaughs.jpg" alt="crafted laughs in lake geneva" />
         </a>
         <div class="mt-auto">crafted laughs in lake geneva - next show 12/13</div>
-      </div-->
+      </div>
     </div-->
 
   </div>
