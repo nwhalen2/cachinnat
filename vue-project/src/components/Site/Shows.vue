@@ -137,6 +137,21 @@ export default {
           date: `10/16/2025`,
           time: `8:00pm`
         },
+		{
+          title: `pimp daddy's six sided circus<br/>at the <b>lincoln lodge</b>`,
+          extra: `<i>watch a giant die decide a comic's fate</i>`,
+          free: true,
+          url: `https://www.eventbrite.com/e/pimp-daddys-six-sided-circus-tickets-1703905520279`,
+          date: `10/17/2025`,
+          time: `09:00pm`
+        },
+		{
+          title: `<b>thursday night laughs</b> at ethereal public house in lexington, <b>kentucky</b>`,
+          free: true,
+          url: `https://www.wildcatcomedy.co/`,
+          date: `10/16/2025`,
+          time: `8:00pm`
+        },
         {
           title: `<b>oxymorons</b> sketch comedy show at <b>second city</b>`,
           url: `https://www.secondcity.com/shows/chicago/oxymorons-wickedly-wacky-chi/`,
