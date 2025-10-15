@@ -12,31 +12,31 @@
       </div>
       <div class="bg-pink-25 rounded col-6 col-md-4 mx-md-4 p-4 d-flex flex-column">
         <a 
-        href="https://roastbattlechicago.com/comedyshowtickets/roastbattlechicago-e6dbr-yc8jw-hh8g5-bwyel-nrgh5-dm2yf-3892h-5grls-r5pdl-jnrf7-5l8h4-mweee-jjsxa-c6lah-kye74" 
-        target="_blank" >
-        <img class="img-fluid" src="../../assets/images/roastbattle_fall_sixteen.jpg" alt="roast battle fall tournament" />
-      </a>
-      <div class="mt-auto">roast battle chicago fall tournament</div>
-      </div>
-    </div>
-    <div class="d-flex justify-content-center gap-4 m-4">
-      <div class="bg-pink-25 rounded col-6 col-md-4 mx-md-4 p-4 d-flex flex-column">
-        <a 
         href="https://www.instagram.com/thelovebelowcomedyshow/" 
         target="_blank">
           <img class="img-fluid" src="../../assets/images/lovebelow_generic.jpeg" alt="the love below comedy show" />
         </a>
         <div class="mt-2">the love below comedy show</div>
       </div>
-      <div class="bg-orange-25 rounded col-6 col-md-4 mx-md-4 p-4 d-flex flex-column">
+    </div>
+    <!--div class="d-flex justify-content-center gap-4 m-4">
+      <div class="bg-pink-25 rounded col-6 col-md-4 mx-md-4 p-4 d-flex flex-column">
+        <a 
+        href="[new-link]" 
+        target="_blank">
+          <img class="img-fluid" src="[new-image]" />
+        </a>
+        <div class="mt-2">[new title]</div>
+      </div>
+      <!--div class="bg-orange-25 rounded col-6 col-md-4 mx-md-4 p-4 d-flex flex-column">
         <a 
         href="https://www.instagram.com/crafted.laughs/" 
         target="_blank">
           <img class="img-fluid" src="../../assets/images/craftedlaughs.jpg" alt="crafted laughs in lake geneva" />
         </a>
         <div class="mt-auto">crafted laughs in lake geneva - next show 12/13</div>
-      </div>
-    </div>
+      </div-->
+    </div-->
 
   </div>
 </template>
@@ -44,22 +44,6 @@
 <script>
   export default {
     name: 'Monthlies',
-    data() {
-      return {
-        shows: [
-          {
-            name: 'the love below comedy show',
-            url: 'https://www.instagram.com/thelovebelowcomedyshow/',
-            image: '../../assets/images/lovebelow_generic.jpeg'
-          },
-          {
-            name: 'crafted laughs in lake geneva',
-            url: 'https://www.instagram.com/crafted.laughs/',
-            image: '../../assets/images/craftedlaughs.jpg'
-          }
-        ]
-      }
-    }
   }
 </script>
   
