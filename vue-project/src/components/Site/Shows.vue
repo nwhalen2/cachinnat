@@ -79,12 +79,6 @@ export default {
           time: `8:00pm`
         },
 		{
-          title: `<b>wow, you're actually funny!</b><br/>at surge billiards`,
-          extra: `more details to come`,
-          date: `12/06/2025`,
-          time: `8:00pm`
-        },
-		{
 			title: `<b>one liner madness</b><br/>at iO theater`,
           	extra: `more details to come`,
           	date: `11/22/2025`,
