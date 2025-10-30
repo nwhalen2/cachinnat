@@ -38,6 +38,20 @@ export default {
     return {
       showPast: false,
       allShows: [
+		  {
+          title: `<b>tight ship</b> comedy at half sour`,
+          free: true,
+          date: `01/22/2025`,
+          time: `7:30pm`,
+          url: `https://www.instagram.com/tightshipcomedy/?hl=en`
+        },
+		{
+          title: `comedy at <b>reggie's</b> rock club`,
+          free: true,
+          date: `12/15/2025`,
+          time: `7:00pm`,
+          url: `https://www.reggieslive.com/show/blake-burkharts-comedy-zacks-open-mic-109/`
+        },
 		{
 			title: `<b>chi lights</b> (comedy you deserve)<br/>at <b>the den theatre</b>`,
           	extra: `more details to come`,
@@ -51,6 +65,12 @@ export default {
           url: `https://www.instagram.com/crafted.laughs/`,
           date: `12/13/2025`,
           time: `6:00pm`
+        },
+		{
+          	title: `<b>wow! you're actually funny</b> at surge billiards`,
+			extra: `more details to come`,
+          	date: `12/12/2025`,
+          	time: `7:30pm`
         },
 		{
           title: `<b>please like me</b> comedy showcase at <b>uptown taproom</b>`,
@@ -100,6 +120,12 @@ export default {
           time: `9:00pm`
         },
 		{
+          title: `super six at <b>zanies</b>`,
+          url: `https://www.etix.com/ticket/p/45486398/super-six-showcase-chicago-zanies-chicago?partner_id=100&_gl=1*1lsfve1*_ga*MzkxMzkwMzguMTc2MTg0MjkwNA..*_ga_LQB756CETN*czE3NjE4NDI5MDMkbzEkZzEkdDE3NjE4NDI5MTUkajQ4JGwwJGgxNjMzNDQ1NTY.`,
+          date: `11/02/2025`,
+          time: `7:00pm`
+        },
+		{
           title: `fall show shuffle<br/>at <b>second city</b>`,
           extra: `<i>guess which comedians perform each other's 3 minute sets</i>`,
           url: `https://secondcityus.my.salesforce-sites.com/ticket/#/instances/a0FTP000004KX3x2AG`,
@@ -107,10 +133,10 @@ export default {
           time: `9:00pm`
         },
 		{
-			title: `<b>tight ship comedy</b> at half sour chicago`,
-			url: `https://www.eventbrite.com/e/tight-ship-comedy-a-live-stand-up-comedy-show-tickets-169028531889?aff=ebdsoporgprofile&fbclid=PAVERFWANKgfBleHRuA2FlbQExAAGnvZYKCASvI98aRioY6UjISyOHS4zpbys-UZ3Xz_xRc9Z2F2hJNfmlkfHcuy8_aem_J8ZUTeMy7ozS-Y3xZngzYg`,
-			date: `11/06/2025`,
-	        time: `8:00pm`
+			title: `<b>trauma dumping</b><br/>at the <b>lincoln lodge</b>`,
+			url: `https://www.eventbrite.com/e/trauma-dumping-a-hilarious-comedy-show-tickets-1677104176739`,
+			date: `10/31/2025`,
+	        time: `7:30pm`
 		},
         {
           title: `<b>oxymorons</b> sketch comedy show at <b>second city</b>`,
