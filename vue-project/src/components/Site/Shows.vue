@@ -41,9 +41,31 @@ export default {
 		  {
           title: `<b>tight ship</b> comedy at half sour`,
           free: true,
-          date: `01/22/2025`,
+          date: `01/22/2026`,
           time: `7:30pm`,
           url: `https://www.instagram.com/tightshipcomedy/?hl=en`
+        },
+		{
+          title: `<b>hammered herstory</b> at the lincoln lodge`,
+			extra: `ticket link to come`,
+          date: `01/04/2026`,
+          time: `8:00pm`,
+        },
+		  {
+          title: `the <b>love below</b> comedy show at <b>beermiscuous</b>`,
+          extra: `<i>every third thursday!</i>`,
+          free: true,
+          url: `https://www.instagram.com/thelovebelowcomedyshow/`,
+          date: `01/15/2026`,
+          time: `8:00pm`
+        },
+		  {
+          title: `the <b>love below</b> comedy show at <b>beermiscuous</b>`,
+          extra: `<i>every third thursday!</i>`,
+          free: true,
+          url: `https://www.instagram.com/thelovebelowcomedyshow/`,
+          date: `12/18/2025`,
+          time: `8:00pm`
         },
 		{
           title: `comedy at <b>reggie's</b> rock club`,
@@ -99,6 +121,12 @@ export default {
           date: `11/23/2025`,
           time: `9:00pm`
         },
+		  {
+          title: `comedy show at a sake bar in wrigleyville`,
+          extra: `more details to come`,
+          date: `11/16/2025`,
+          time: `5:00pm`,
+        },
 		{
           title: `fall show shuffle<br/>at <b>second city</b>`,
           extra: `<i>guess which comedians perform each other's 3 minute sets</i>`,
@@ -112,6 +140,13 @@ export default {
           url: `https://secondcityus.my.salesforce-sites.com/ticket/#/instances/a0FTP000004KX5Z2AW`,
           date: `11/09/2025`,
           time: `9:00pm`
+        },
+		  {
+          title: `<b>wake & bakery</b> comedy show`,
+          free: true,
+          date: `11/08/2025`,
+          time: `7:00pm`,
+          url: `https://www.instagram.com/wakenbakery_logan?igsh=MTk5cDF0bWprcHZ3NQ==`
         },
 		{
           title: `super six at <b>zanies</b>`,
