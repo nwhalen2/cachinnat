@@ -9,6 +9,7 @@
         <img class="img-fluid" src="../../assets/images/fallshowshuffle.jpeg" alt="fall show shuffle at second city" />
       </a>
       <div class="mt-2">fall show shuffle at second city</div>
+      <i class="mt-1">sundays in november</i>
       </div>
       <div class="bg-pink-25 rounded col-6 col-md-4 mx-md-4 p-4 d-flex flex-column">
         <a 
