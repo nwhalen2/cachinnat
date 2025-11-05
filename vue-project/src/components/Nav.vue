@@ -18,7 +18,7 @@ const chirp = '(also i DJ for chirp radio 107.1FM 6-9am every monday morning!!)'
     <div>
         <div class="text-center border border-warning p-4 col-12 col-md-6 col-lg-4 mx-auto d-flex flex-column align-items-center gap-2">
             <h5 class="title" v-html="title"></h5>
-            <a href="https://groups.google.com/g/cachinnat-club" target="_blank" class="text-decoration-none bg-orange-25 text-black border rounded border-black border-dotted p-2">join my mailing list</a>
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSc6geJKXVQnpdTQ_JZNRtDNXqdesjmSSxaWFZ-jr0J7w2hD7g/viewform?usp=sharing&ouid=106453007934557930646" target="_blank" class="text-decoration-none bg-orange-25 text-black border rounded border-black border-dotted p-2">join my mailing list</a>
         </div>
         <!--div class="d-flex">
             <div class="d-none d-md-block col-md-1 col-lg-3"></div>
