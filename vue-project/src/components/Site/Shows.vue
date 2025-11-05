@@ -100,6 +100,12 @@ export default {
           date: `12/12/2025`,
           time: `8:00pm`
         },
+		  {
+			title: `<b>best night ever</b> at the lincoln lodge`,
+			  url: `https://www.eventbrite.com/e/best-night-ever-tickets-255500337387`,
+          	date: `11/25/2025`,
+          	time: `8:00pm`
+		},
 		{
 			title: `<b>one liner madness</b><br/>at iO theater`,
           	extra: `more details to come`,
