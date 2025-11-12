@@ -60,6 +60,12 @@ export default {
           time: `8:00pm`
         },
 		  {
+          title: `<b>red room</b> comedy showcase`,
+          url: `https://www.redroomcomedyclub.com/events/red-room-comedy-2025-12-20-20-00`,
+          date: `12/20/2025`,
+          time: `8:00pm`
+        },
+		  {
           title: `the <b>love below</b> comedy show at <b>beermiscuous</b>`,
           extra: `<i>every third thursday!</i>`,
           free: true,
@@ -101,6 +107,14 @@ export default {
           time: `8:00pm`
         },
 		  {
+          title: `<b>throwdown the gauntlet finals</b> at o'donnell's`,
+          extra: `come vote for me, winner gets $ & a club spot!`,
+          free: true,
+          url: `https://www.eventbrite.com/e/free-stand-up-comedy-at-odonnells-throw-down-the-gauntlet-qualifiers-tickets-1847663253529?aff=erelexpmlt`,
+          date: `11/28/2025`,
+          time: `7:30pm`
+        },
+		  {
 			title: `<b>best night ever</b> at the lincoln lodge`,
 			  url: `https://www.eventbrite.com/e/best-night-ever-tickets-255500337387`,
           	date: `11/25/2025`,
@@ -119,6 +133,13 @@ export default {
           url: `https://www.instagram.com/thelovebelowcomedyshow/`,
           date: `11/20/2025`,
           time: `8:00pm`
+        },
+		  {
+          title: `what could go wrong? at <b>laugh factory</b>`,
+          extra: `<i>helping with some ~pranks~</i>`,
+          url: `https://laughfactorychicago.standuptix.com/events/what-could-go-wrong-4`,
+          date: `11/13/2025`,
+          time: `9:00pm`
         },
 		{
           title: `fall show shuffle<br/>at <b>second city</b>`,
