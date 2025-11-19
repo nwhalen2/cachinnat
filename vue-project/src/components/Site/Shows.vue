@@ -121,8 +121,15 @@ export default {
           	time: `8:00pm`
 		},
 		{
+			title: `<b>open mic contest</b> at burton place bar & grill`,
+			extra: `<i>come with your best stuff for a chance to get booked!</i>`,
+			free: true,
+          	date: `11/24/2025`,
+          	time: `7:00pm`
+		},
+		{
 			title: `<b>one liner madness</b><br/>at iO theater`,
-          	extra: `more details to come`,
+          	url: `https://ci.ovationtix.com/36725/production/1255992?performanceId=11714271`,
           	date: `11/22/2025`,
           	time: `8:00pm`
 		},
@@ -149,8 +156,8 @@ export default {
           time: `9:00pm`
         },
 		  {
-          title: `comedy show at a sake bar in wrigleyville`,
-          extra: `more details to come`,
+          title: `<b>kawaii comedy</b> at konbini & kanpai wrigleyville`,
+          url: `https://www.eventbrite.com/e/kawaii-comedy-tickets-1964384466820`,
           date: `11/16/2025`,
           time: `5:00pm`,
         },
