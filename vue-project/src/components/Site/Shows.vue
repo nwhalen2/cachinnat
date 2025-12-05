@@ -52,9 +52,16 @@ export default {
           time: `7:30pm`,
           url: `https://www.instagram.com/tightshipcomedy/?hl=en`
         },
+		  {
+          title: `<b>roast of milo mack</b> at burton place`,
+          free: true,
+		extra: `come out to celebrate milo's bday! (& make him cry)`,
+          date: `01/08/2026`,
+          time: `8:00pm`
+        },
 		{
           title: `<b>hammered herstory</b> at the lincoln lodge`,
-			extra: `ticket link to come`,
+		url: `https://www.eventbrite.com/e/hammered-herstory-chicagos-funniest-drunk-comedy-storytelling-tickets-804226231307`,
           date: `01/04/2026`,
           time: `8:00pm`,
         },
@@ -89,7 +96,7 @@ export default {
         },
 		{
 			title: `<b>chi lights</b> (comedy you deserve)<br/>at <b>the den theatre</b>`,
-          	extra: `more details to come`,
+          	url: `https://tickets.thedentheatre.com/event/comedy-you-deserve-chi-lights-cc38qz?_gl=1*1h1s0e8*_ga*MjA1NDU0NzU3OC4xNzY0ODY0MzYy*_ga_KKZ24883X0*czE3NjQ4OTc2NzEkbzIkZzAkdDE3NjQ4OTc2NzEkajYwJGwwJGg4NDQ1NTM2MDU.*_ga_T6SEPL0V6M*czE3NjQ4OTc2NzEkbzIkZzAkdDE3NjQ4OTc2NzEkajYwJGwwJGgw`,
           	date: `12/19/2025`,
           	time: `7:00pm`
 		},
