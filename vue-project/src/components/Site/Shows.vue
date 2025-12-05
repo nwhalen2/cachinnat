@@ -96,7 +96,7 @@ export default {
         },
 		{
           	title: `<b>wow! you're actually funny</b> at surge billiards`,
-			extra: `more details to come`,
+			url: `https://www.eventbrite.com/e/wow-youre-actually-funny-tickets-1975346063250`,
           	date: `12/12/2025`,
           	time: `7:30pm`
         },
