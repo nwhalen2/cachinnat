@@ -5,11 +5,11 @@
       <button 
       class="p-2 me-4 border border-dark rounded text-uppercase text-dark"
       :class="showPast ? 'bg-orange-25' : 'bg-orange'"
-      @click="showPast = false">upcoming</button>
+      @click="showPast = false; numShown = 6">upcoming</button>
       <button 
       class="p-2 border border-dark rounded text-uppercase text-dark"
       :class="showPast ? 'bg-pink' : 'bg-pink-25'"
-      @click="showPast = true">past</button>
+      @click="showPast = true; numShown = 6">past</button>
     </div>
     
     <div v-if="!showPast">
