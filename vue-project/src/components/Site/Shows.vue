@@ -13,17 +13,23 @@
     </div>
     
     <div v-if="!showPast" class="d-flex flex-column align-items-center">
-      <Show v-for="(show, i) in upcomingShows"
+      <Show v-for="(show, i) in upcomingShows.slice(0, numShown)"
       :show="show"
       :key="i"
       class="m-4 col-12 col-md-10 col-xl-8" />
     </div>
     <div v-else class="d-flex flex-column align-items-center">
-      <Show v-for="(show, i) in pastShows"
+      <Show v-for="(show, i) in pastShows.slice(0, numShown)"
       :show="show"
       :key="i"
       class="m-4 col-12 col-md-10 col-xl-8 opacity-50" />
     </div>
+	<button 
+	v-if="(!showPast && numShown < upcomingShows.length) || (showPast && numShown < pastShows.length)"
+	class="mt-4 p-2 border border-dark rounded text-uppercase text-dark bg-pink-25"
+	@click="numShown += 6">
+		show more
+	</button>
   </div>
 </template>
 
@@ -37,6 +43,7 @@ export default {
   data() {
     return {
       showPast: false,
+		numShown: 6,
       allShows: [
 		  {
           title: `<b>tight ship</b> comedy at half sour`,
