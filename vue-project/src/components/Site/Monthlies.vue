@@ -4,12 +4,11 @@
     <div class="d-flex justify-content-center align-items-center gap-4 m-4">
       <div class="bg-orange-25 rounded col-6 col-md-4 mx-md-4 p-4 d-flex flex-column">
         <a 
-        href="https://secondcityus.my.salesforce-sites.com/ticket/#/instances/a0FTP000004KX3x2AG" 
-        target="_blank" >
-        <img class="img-fluid" src="../../assets/images/fallshowshuffle.jpeg" alt="fall show shuffle at second city" />
-      </a>
-      <div class="mt-2">fall show shuffle at second city</div>
-      <div class="mt-1">sundays in november</div>
+        href="https://www.instagram.com/crafted.laughs/" 
+        target="_blank">
+          <img class="img-fluid" src="../../assets/images/craftedlaughs_winter2025.jpeg" alt="crafted laughs in lake geneva" />
+        </a>
+        <div class="mt-auto">crafted laughs in lake geneva (winter edition!)</div>
       </div>
       <div class="bg-pink-25 rounded col-6 col-md-4 mx-md-4 p-4 d-flex flex-column">
         <a 
