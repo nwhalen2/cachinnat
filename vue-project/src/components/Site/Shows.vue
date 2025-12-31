@@ -112,7 +112,7 @@ export default {
         },
 		  {
           title: `<b>power hour</b> drinker`,
-          extra: `<i>come hang while i drink 10 beers & heckle 50 open mic comedians</i>`,
+          extra: `come hang while i drink 10 beers & heckle 50 open mic comedians`,
           free: true,
           url: `https://www.instagram.com/powerhouropenmic?igsh=aGY1dHFpd240NXI4`,
           date: `01/16/2026`,
