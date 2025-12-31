@@ -88,6 +88,20 @@ export default {
           time: `8:00pm`
         },
 		{
+          	title: `<b>blind wolf comedy</b> at trader todd's speakeasy`,
+          	url: `https://www.instagram.com/blindwolfcomedy?igsh=MXR3d2JyazdhcXcyMA==`,
+          	free: true,
+			date: `01/28/2025`,
+          	time: `8:30pm`
+        },
+		{
+          	title: `<b>blind wolf comedy</b> at trader todd's speakeasy`,
+          	url: `https://www.instagram.com/blindwolfcomedy?igsh=MXR3d2JyazdhcXcyMA==`,
+          	free: true,
+			date: `12/10/2025`,
+          	time: `8:30pm`
+        },
+		{
           title: `comedy at <b>reggie's</b> rock club`,
           free: true,
           date: `12/15/2025`,
