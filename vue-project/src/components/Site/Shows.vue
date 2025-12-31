@@ -46,6 +46,51 @@ export default {
 		numShown: 6,
       allShows: [
 		  {
+          title: `the <b>love below</b> comedy show at <b>beermiscuous</b>`,
+          extra: `<i>every third thursday!</i>`,
+          free: true,
+          url: `https://www.instagram.com/thelovebelowcomedyshow/`,
+          date: `04/16/2026`,
+          time: `8:00pm`
+        },
+		  {
+          title: `the <b>love below</b> comedy show at <b>beermiscuous</b>`,
+          extra: `<i>every third thursday!</i>`,
+          free: true,
+          url: `https://www.instagram.com/thelovebelowcomedyshow/`,
+          date: `03/19/2026`,
+          time: `8:00pm`
+        },
+		  {
+          title: `the <b>love below</b> comedy show at <b>beermiscuous</b>`,
+          extra: `<i>every third thursday!</i>`,
+          free: true,
+          url: `https://www.instagram.com/thelovebelowcomedyshow/`,
+          date: `02/19/2026`,
+          time: `8:00pm`
+        },
+		  {
+          title: `<b>roast bingo</b> at uptown taproom`,
+		extra: `natalie vs. bronwyn - who you got!??`,
+          free: true,
+          url: `https://www.instagram.com/roastbingo?igsh=MTA1eXQ4MTg1Ym4x`,
+          date: `02/06/2026`,
+          time: `8:00pm`
+        },
+		  {
+          title: `<b>one liner madness</b> at x-ray arcade (milwaukee, wi)`,
+          url: `https://xrayarcade.com/calendar/2026/01/31/onelinermadness`,
+          date: `01/31/2026`,
+          time: `7:00pm`
+        },
+		  {
+          title: `<b>roast battle</b> at zanies chicago`,
+			  extra: `natalie whalen vs. brooke whitehead: who will prevail!?`,
+          date: `01/29/2026`,
+          time: `9:30pm`,
+          url: `https://www.etix.com/ticket/p/37967183/roast-battle-chicago-chicago-zanies-chicago?partner_id=100&_gl=1*15eai2c*_ga*OTk1NDk1NzAuMTc2NDc4NjIxMQ..*_ga_LQB756CETN*czE3NjcyMTE1MDAkbzMkZzEkdDE3NjcyMTE1MDgkajUyJGwwJGgxMjk5MDg3OTI2`
+        },
+		  {
           title: `<b>tight ship</b> comedy at half sour`,
           free: true,
           date: `01/22/2026`,
@@ -60,10 +105,18 @@ export default {
           time: `8:00pm`
         },
 		{
-          title: `<b>hammered herstory</b> at the lincoln lodge`,
-		url: `https://www.eventbrite.com/e/hammered-herstory-chicagos-funniest-drunk-comedy-storytelling-tickets-804226231307`,
-          date: `01/04/2026`,
-          time: `8:00pm`,
+          	title: `<b>hammered herstory</b> at the lincoln lodge`,
+			url: `https://www.eventbrite.com/e/hammered-herstory-chicagos-funniest-drunk-comedy-storytelling-tickets-804226231307`,
+          	date: `01/04/2026`,
+          	time: `8:00pm`,
+        },
+		  {
+          title: `<b>power hour</b> drinker`,
+          extra: `<i>come hang while i drink 10 beers & heckle 50 open mic comedians</i>`,
+          free: true,
+          url: `https://www.instagram.com/powerhouropenmic?igsh=aGY1dHFpd240NXI4`,
+          date: `01/16/2026`,
+          time: `8:00pm`
         },
 		  {
           title: `the <b>love below</b> comedy show at <b>beermiscuous</b>`,
@@ -91,7 +144,7 @@ export default {
           	title: `<b>blind wolf comedy</b> at trader todd's speakeasy`,
           	url: `https://www.instagram.com/blindwolfcomedy?igsh=MXR3d2JyazdhcXcyMA==`,
           	free: true,
-			date: `01/28/2025`,
+			date: `01/28/2026`,
           	time: `8:30pm`
         },
 		{
@@ -131,7 +184,7 @@ export default {
 		{
           title: `<b>please like me</b> comedy showcase at <b>uptown taproom</b>`,
           url: `https://www.eventbrite.com/e/please-like-me-comedy-showcase-tickets-1732660978629?aff=erelpanelorg`,
-          date: `12/12/2025`,
+          date: `02/13/2026`,
           time: `8:00pm`
         },
 		  {
