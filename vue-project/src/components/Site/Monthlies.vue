@@ -1,16 +1,16 @@
 <template>
   <div class="text-center">
-    <h5 class="title my-4">hosting these :)</h5>
+    <h5 class="title my-4">every month you can find me hosting</h5>
     <div class="d-flex justify-content-center align-items-center gap-4 m-4">
-      <div class="bg-orange-25 rounded col-6 col-md-4 mx-md-4 p-4 d-flex flex-column gap-2">
+      <!--div class="bg-orange-25 rounded col-6 col-md-4 mx-md-4 p-4 d-flex flex-column gap-2">
         <a 
         href="https://www.instagram.com/crafted.laughs/" 
         target="_blank">
           <img class="img-fluid" src="../../assets/images/craftedlaughs_winter2025.jpeg" alt="crafted laughs in lake geneva" />
         </a>
         <div>crafted laughs in lake geneva<br/>(winter edition)</div>
-      </div>
-      <div class="bg-pink-25 rounded col-6 col-md-4 mx-md-4 p-4 d-flex flex-column gap-2">
+      </div-->
+      <div class="bg-pink-25 rounded col-6 col-md-4 mx-md-4 p-4 d-flex flex-column gap-2 mx-auto">
         <a 
         href="https://www.instagram.com/thelovebelowcomedyshow/" 
         target="_blank">
