@@ -62,6 +62,20 @@ export default {
           time: `8:00pm`
         },
 		  {
+          title: `<b>still not friday</b> at two brothers roundhouse`,
+			url: `https://linktr.ee/snfcomedy?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnPaamdb9yGeE4nWmH0buNj0gfZfMcYaFL2KIoagEq3pf6AYKSkpXSKun4OEM_aem_PScRAzBHWmn-R82_ObcqSQ`,
+          free: true,
+          date: `02/26/2025`,
+          time: `8:00pm`
+        },
+		  {
+          title: `<b>buckets</b> at burton place`,
+			url: `https://www.instagram.com/bigmackcomedy/`,
+          free: true,
+          date: `02/23/2025`,
+          time: `7:00pm`
+        },
+		  {
           title: `the <b>love below</b> comedy show at <b>beermiscuous</b>`,
           extra: `<i>every third thursday!</i>`,
           free: true,
@@ -103,6 +117,20 @@ export default {
 		extra: `come out to celebrate milo's bday! (& make him cry)`,
           date: `01/08/2026`,
           time: `8:00pm`
+        },
+		  {
+          title: `<b>hair of the dog</b> open mic at burton place`,
+			  extra: `hosting!!`,
+			url: `https://www.instagram.com/bigmackcomedy/`,
+          free: true,
+          date: `01/04/2025`,
+          time: `3:00pm`
+        },
+		  {
+          title: `<b>highQ hangout</b> variety show at the lincoln lodge`,
+          url: `https://www.eventbrite.com/e/highq-hangout-cabaret-comedy-and-storytelling-tickets-1979418862101?aff=oddtdtcreator`,
+          date: `01/04/2026`,
+          time: `6:00pm`
         },
 		{
           	title: `<b>hammered herstory</b> at the lincoln lodge`,
