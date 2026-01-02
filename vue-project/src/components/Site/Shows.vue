@@ -65,14 +65,14 @@ export default {
           title: `<b>still not friday</b> at two brothers roundhouse`,
 			url: `https://linktr.ee/snfcomedy?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnPaamdb9yGeE4nWmH0buNj0gfZfMcYaFL2KIoagEq3pf6AYKSkpXSKun4OEM_aem_PScRAzBHWmn-R82_ObcqSQ`,
           free: true,
-          date: `02/26/2025`,
+          date: `02/26/2026`,
           time: `8:00pm`
         },
 		  {
           title: `<b>buckets</b> at burton place`,
 			url: `https://www.instagram.com/bigmackcomedy/`,
           free: true,
-          date: `02/23/2025`,
+          date: `02/23/2026`,
           time: `7:00pm`
         },
 		  {
@@ -119,11 +119,25 @@ export default {
           time: `8:00pm`
         },
 		  {
+          	title: `<b>blind wolf comedy</b> at trader todd's speakeasy`,
+          	url: `https://www.instagram.com/blindwolfcomedy?igsh=MXR3d2JyazdhcXcyMA==`,
+          	free: true,
+			date: `01/28/2026`,
+          	time: `8:30pm`
+        },
+		  {
+          	title: `the last laugh in <b>houston, tx</b>`,
+			  extra: `ticket comes with drink & a fun pint glass :)`,
+          	url: `https://www.eventbrite.com/e/the-last-laugh-with-shane-tucker-trip-truman-tickets-1978787302088?aff=odwdwdspacecraft`,
+			date: `01/11/2026`,
+          	time: `7:00pm`
+        },
+		  {
           title: `<b>hair of the dog</b> open mic at burton place`,
 			  extra: `hosting!!`,
 			url: `https://www.instagram.com/bigmackcomedy/`,
           free: true,
-          date: `01/04/2025`,
+          date: `01/04/2026`,
           time: `3:00pm`
         },
 		  {
@@ -167,13 +181,6 @@ export default {
           url: `https://www.instagram.com/thelovebelowcomedyshow/`,
           date: `12/18/2025`,
           time: `8:00pm`
-        },
-		{
-          	title: `<b>blind wolf comedy</b> at trader todd's speakeasy`,
-          	url: `https://www.instagram.com/blindwolfcomedy?igsh=MXR3d2JyazdhcXcyMA==`,
-          	free: true,
-			date: `01/28/2026`,
-          	time: `8:30pm`
         },
 		{
           	title: `<b>blind wolf comedy</b> at trader todd's speakeasy`,
