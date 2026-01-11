@@ -62,6 +62,11 @@ export default {
           time: `8:00pm`
         },
 		  {
+          	title: `private show`,
+			date: `03/06/2026`,
+          	time: `7:00pm`
+        },
+		  {
           title: `<b>still not friday</b> at two brothers roundhouse`,
 			url: `https://linktr.ee/snfcomedy?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnPaamdb9yGeE4nWmH0buNj0gfZfMcYaFL2KIoagEq3pf6AYKSkpXSKun4OEM_aem_PScRAzBHWmn-R82_ObcqSQ`,
           free: true,
@@ -105,12 +110,25 @@ export default {
           url: `https://www.etix.com/ticket/p/37967183/roast-battle-chicago-chicago-zanies-chicago?partner_id=100&_gl=1*15eai2c*_ga*OTk1NDk1NzAuMTc2NDc4NjIxMQ..*_ga_LQB756CETN*czE3NjcyMTE1MDAkbzMkZzEkdDE3NjcyMTE1MDgkajUyJGwwJGgxMjk5MDg3OTI2`
         },
 		  {
+          title: `comedy at <b>reggie's</b> rock club`,
+          free: true,
+          date: `01/26/2025`,
+          time: `7:00pm`,
+          url: `https://www.reggieslive.com/2026/01/?post_type=show`
+        },
+		  {
           title: `<b>tight ship</b> comedy at half sour`,
           free: true,
           date: `01/22/2026`,
           time: `7:30pm`,
           url: `https://www.instagram.com/tightshipcomedy/?hl=en`
         },
+		  {
+          title: `andersonville <b>supportive living</b> comedy`,
+		extra: `private show`,
+          date: `01/15/2026`,
+          time: `6:00pm`,
+		},
 		  {
           title: `<b>roast of milo mack</b> at burton place`,
           free: true,
@@ -124,6 +142,12 @@ export default {
           	free: true,
 			date: `01/28/2026`,
           	time: `8:30pm`
+        },
+		  {
+          	title: `monday night comedy in <b>houston, tx</b>`,
+          	url: `https://www.eventbrite.com/e/monday-night-comedy-tickets-1978787291055?aff=odwdwdspacecraft`,
+			date: `01/12/2026`,
+          	time: `8:00pm`
         },
 		  {
           	title: `the last laugh in <b>houston, tx</b>`,
@@ -190,7 +214,7 @@ export default {
           	time: `8:30pm`
         },
 		{
-          title: `comedy at <b>reggie's</b> rock club`,
+          title: `<s>comedy at <b>reggie's</b> rock club</s>`,
           free: true,
           date: `12/15/2025`,
           time: `7:00pm`,
