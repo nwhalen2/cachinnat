@@ -117,6 +117,13 @@ export default {
           url: `https://www.reggieslive.com/2026/01/?post_type=show`
         },
 		  {
+          title: `<b>4th fridays art event</b> at the dole`,
+			extra: `<b>music!</b> (not comedy)`,
+          date: `01/23/2026`,
+          time: `6-9pm`,
+          url: `https://nancymerkling.com/4th-fridays/`
+        },
+		  {
           title: `<b>tight ship</b> comedy at half sour`,
           free: true,
           date: `01/22/2026`,
