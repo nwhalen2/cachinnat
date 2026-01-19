@@ -66,6 +66,19 @@ export default {
 			date: `03/06/2026`,
           	time: `7:00pm`
         },
+		  
+		  {
+			  title: `full five friday`,
+			  url: `https://www.instagram.com/fullfivefridayschicago/`,
+			  date: `03/06/26`,
+			  time: `9:00pm`
+		  },
+		  {
+          	title: `<b>hammered herstory</b> at the lincoln lodge`,
+			url: `https://www.eventbrite.com/e/hammered-herstory-chicagos-funniest-drunk-comedy-storytelling-tickets-804226231307`,
+          	date: `03/01/2026`,
+          	time: `8:00pm`,
+        },
 		  {
           title: `<b>still not friday</b> at two brothers roundhouse`,
 			url: `https://linktr.ee/snfcomedy?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnPaamdb9yGeE4nWmH0buNj0gfZfMcYaFL2KIoagEq3pf6AYKSkpXSKun4OEM_aem_PScRAzBHWmn-R82_ObcqSQ`,
@@ -95,6 +108,12 @@ export default {
           url: `https://www.instagram.com/roastbingo?igsh=MTA1eXQ4MTg1Ym4x`,
           date: `02/06/2026`,
           time: `8:00pm`
+        },
+		  {
+          	title: `<b>hammered herstory</b> at the lincoln lodge`,
+			url: `https://www.eventbrite.com/e/hammered-herstory-chicagos-funniest-drunk-comedy-storytelling-tickets-804226231307`,
+          	date: `02/01/2026`,
+          	time: `8:00pm`,
         },
 		  {
           title: `<b>one liner madness</b> at x-ray arcade (milwaukee, wi)`,
