@@ -50,8 +50,37 @@ export default {
           extra: `<i>every third thursday!</i>`,
           free: true,
           url: `https://www.instagram.com/thelovebelowcomedyshow/`,
+          date: `06/18/2026`,
+          time: `8:00pm`
+        },
+		  {
+          title: `the <b>love below</b> comedy show at <b>beermiscuous</b>`,
+          extra: `<i>every third thursday!</i>`,
+          free: true,
+          url: `https://www.instagram.com/thelovebelowcomedyshow/`,
+          date: `05/21/2026`,
+          time: `8:00pm`
+        },
+		  {
+          title: `stand up comedy at <b>blue goose</b>`,
+          extra: `1205 n lake ave. twin lakes, wi`,
+          date: `04/10/2026`,
+          time: `9:00pm`
+        },
+		  {
+          title: `the <b>love below</b> comedy show at <b>beermiscuous</b>`,
+          extra: `<i>every third thursday!</i>`,
+          free: true,
+          url: `https://www.instagram.com/thelovebelowcomedyshow/`,
           date: `04/16/2026`,
           time: `8:00pm`
+        },
+		  {
+          title: `<b>femme fest</b> in sacramento, ca`,
+          extra: `<i>baby's first festival! doing 20 minutes :)</i>`,
+          url: `https://saccomedyspot.vbotickets.com/event/femme_fest_2026_tickets/186689`,
+          date: `03/28/2026`,
+          time: `7:30pm`
         },
 		  {
           title: `the <b>love below</b> comedy show at <b>beermiscuous</b>`,
@@ -62,22 +91,47 @@ export default {
           time: `8:00pm`
         },
 		  {
+          title: `what could go wrong? at <b>laugh factory</b>`,
+          extra: `<i>helping with some ~acting~</i>`,
+          url: `https://laughfactorychicago.standuptix.com/events/what-could-go-wrong-4`,
+          date: `03/12/2026`,
+          time: `9:00pm`
+        },
+		  {
+          	title: `<b>comedy at bourbon</b>`,
+			  extra: `2208 60th st. kenosha, wi`,
+			date: `03/07/2026`,
+          	time: `8:00pm`
+        },
+		  {
           	title: `private show`,
 			date: `03/06/2026`,
           	time: `7:00pm`
         },
 		  
 		  {
-			  title: `full five friday`,
+			  title: `<b>full five fridays</b> at stars & garters`,
 			  url: `https://www.instagram.com/fullfivefridayschicago/`,
 			  date: `03/06/26`,
 			  time: `9:00pm`
 		  },
 		  {
+          title: `<b>roast battle spring tournament (prelims)</b> at zanies chicago`,
+          url: `https://roastbattlechicago.com/comedyshowtickets/9mdtrfg2knb7nd7-eh6jg-bna47-6blhc-9ahpj-y57sw-ty3ma-fmbxa-628ly-ea3zl`,
+          date: `03/05/2025`,
+          time: `9:30pm`
+        },
+		  {
           	title: `<b>hammered herstory</b> at the lincoln lodge`,
 			url: `https://www.eventbrite.com/e/hammered-herstory-chicagos-funniest-drunk-comedy-storytelling-tickets-804226231307`,
           	date: `03/01/2026`,
           	time: `8:00pm`,
+        },
+		  {
+          title: `stand-up comedy showcase in <b>peotone</b>, il`,
+			url: `tickettailor.com`,
+          date: `02/27/2026`,
+          time: `8:00pm`
         },
 		  {
           title: `<b>still not friday</b> at two brothers roundhouse`,
@@ -94,6 +148,12 @@ export default {
           time: `7:00pm`
         },
 		  {
+          title: `throwdown the gauntlet <b>judging</b> at o'donnell's`,
+          free: true,
+			date: `02/20/26`,
+          time: `7:30pm`
+        },
+		  {
           title: `the <b>love below</b> comedy show at <b>beermiscuous</b>`,
           extra: `<i>every third thursday!</i>`,
           free: true,
@@ -101,6 +161,20 @@ export default {
           date: `02/19/2026`,
           time: `8:00pm`
         },
+		  {
+          title: `crowd work wednesday at <b>the comedy bar</b>`,
+          extra: `<i>interactive show!</i>`,
+          url: `https://www.eventbrite.com/e/wednesday-february-18-crowd-work-wednesday-tickets-1979935255648?aff=ebdsoporgprofile`,
+          date: `02/18/2026`,
+          time: `7:00pm`
+        },
+		  {
+			  title: `camped out comedy at <b>the drunken bean</b>`,
+			  free: true,
+			  url: `https://www.instagram.com/p/DOT-hegkqdB/?igsh=NGl5d3h5enltcjZ4`,
+			  date: `02/11/26`,
+			  time: `7:30pm`
+		  },
 		  {
           title: `<b>roast bingo</b> at uptown taproom`,
 		extra: `natalie vs. bronwyn - who you got!??`,
@@ -135,6 +209,11 @@ export default {
           time: `7:00pm`,
           url: `https://www.reggieslive.com/2026/01/?post_type=show`
         },
+		  {
+          title: `<b>roast battle</b> at zanies rosemont`,
+          date: `01/25/2026`,
+          time: `8:00pm`,
+		},
 		  {
           title: `<b>4th fridays art event</b> at the dole`,
 			extra: `<b>music!</b> (not comedy)`,
