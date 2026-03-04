@@ -50,6 +50,22 @@ export default {
           extra: `<i>every third thursday!</i>`,
           free: true,
           url: `https://www.instagram.com/thelovebelowcomedyshow/`,
+          date: `08/20/2026`,
+          time: `8:00pm`
+        },
+		   {
+          title: `the <b>love below</b> comedy show at <b>beermiscuous</b>`,
+          extra: `<i>every third thursday!</i>`,
+          free: true,
+          url: `https://www.instagram.com/thelovebelowcomedyshow/`,
+          date: `07/16/2026`,
+          time: `8:00pm`
+        },
+		  {
+          title: `the <b>love below</b> comedy show at <b>beermiscuous</b>`,
+          extra: `<i>every third thursday!</i>`,
+          free: true,
+          url: `https://www.instagram.com/thelovebelowcomedyshow/`,
           date: `06/18/2026`,
           time: `8:00pm`
         },
@@ -62,10 +78,84 @@ export default {
           time: `8:00pm`
         },
 		  {
+          title: `<b>crafted laughs</b><br/>in <b>lake geneva</b>, wi`,
+          extra: `<i>select fridays in summer</i>`,
+          free: true,
+          url: `https://www.instagram.com/crafted.laughs/`,
+          date: `09/25/2026`,
+          time: `8:00pm`
+        },
+		  {
+          title: `<b>crafted laughs</b><br/>in <b>lake geneva</b>, wi`,
+          extra: `<i>select fridays in summer</i>`,
+          free: true,
+          url: `https://www.instagram.com/crafted.laughs/`,
+          date: `08/21/2026`,
+          time: `8:00pm`
+        },
+		  {
+          title: `<b>crafted laughs</b><br/>in <b>lake geneva</b>, wi`,
+          extra: `<i>select fridays in summer</i>`,
+          free: true,
+          url: `https://www.instagram.com/crafted.laughs/`,
+          date: `07/17/2026`,
+          time: `8:00pm`
+        },
+		  {
+          title: `<b>crafted laughs</b><br/>in <b>lake geneva</b>, wi`,
+          extra: `<i>select fridays in summer</i>`,
+          free: true,
+          url: `https://www.instagram.com/crafted.laughs/`,
+          date: `06/26/2026`,
+          time: `8:00pm`
+        },
+		  {
+          title: `<b>crafted laughs</b><br/>in <b>lake geneva</b>, wi`,
+          extra: `<i>select fridays in summer</i>`,
+          free: true,
+          url: `https://www.instagram.com/crafted.laughs/`,
+          date: `06/12/2026`,
+          time: `8:00pm`
+        },
+		  {
+          title: `<b>crafted laughs</b><br/>in <b>lake geneva</b>, wi`,
+          extra: `<i>select fridays in summer</i>`,
+          free: true,
+          url: `https://www.instagram.com/crafted.laughs/`,
+          date: `05/22/2026`,
+          time: `8:00pm`
+        },
+		  {
+          title: `<b>crafted laughs</b><br/>in <b>lake geneva</b>, wi`,
+          extra: `<i>select fridays in summer</i>`,
+          free: true,
+          url: `https://www.instagram.com/crafted.laughs/`,
+          date: `05/08/2026`,
+          time: `8:00pm`
+        },
+		  {
           title: `stand up comedy at <b>blue goose</b>`,
           extra: `1205 n lake ave. twin lakes, wi`,
           date: `04/10/2026`,
           time: `9:00pm`
+        },
+		  {
+          title: `<b>red room comedy club</b>`,
+          url: `https://www.redroomcomedyclub.com/events/red-room-comedy-2026-05-09-20-00`,
+          date: `05/09/2026`,
+          time: `8:00pm`
+        },
+		  {
+          title: `live comedy!! at <b>the bottle shop</b>`,
+          url: `https://thebottleshoplakegeneva.com/calendar/`,
+          date: `05/02/2026`,
+          time: `5:00pm`
+        },
+		  {
+          title: `live comedy!! at <b>the bottle shop</b>`,
+          url: `https://thebottleshoplakegeneva.com/calendar/`,
+          date: `05/02/2026`,
+          time: `7:00pm`
         },
 		  {
           title: `the <b>love below</b> comedy show at <b>beermiscuous</b>`,
@@ -76,11 +166,36 @@ export default {
           time: `8:00pm`
         },
 		  {
+          title: `<b>la jara brewing co.<b> in norwalk, ca`,
+          free: true,
+		  date: `04/02/2026`,
+          time: `8:00pm (PST)`
+        },
+		  {
+          title: `<b>casually funny</b> at the den theatre`,
+          extra: `<i>more details to come</i>`,
+          date: `04/04/2026`,
+          time: `7:30pm`
+        },
+		  {
+          title: `<b>comedy store<b>`,
+          extra: `stand up opener on roast battle`,
+          url: `https://www.showclix.com/event/roast-battle-2026-march24th`,
+          date: `03/31/2026`,
+          time: `10:30pm (PST)`
+        },
+		  {
           title: `<b>femme fest</b> in sacramento, ca`,
           extra: `<i>baby's first festival! doing 20 minutes :)</i>`,
           url: `https://saccomedyspot.vbotickets.com/event/femme_fest_2026_tickets/186689`,
           date: `03/28/2026`,
           time: `7:30pm`
+        },
+		  {
+          title: `<b>an iliad</b> at burton place`,
+          url: `https://www.instagram.com/iliad.comedy/`,
+          date: `03/24/2026`,
+          time: `9:30pm`
         },
 		  {
           title: `the <b>love below</b> comedy show at <b>beermiscuous</b>`,
@@ -92,10 +207,17 @@ export default {
         },
 		  {
           title: `what could go wrong? at <b>laugh factory</b>`,
-          extra: `<i>helping with some ~acting~</i>`,
+          extra: `<i>sketch comedy</i>`,
           url: `https://laughfactorychicago.standuptix.com/events/what-could-go-wrong-4`,
           date: `03/12/2026`,
           time: `9:00pm`
+        },
+		  {
+          title: `hush hush comedy hour at the <b>lincoln lodge</b>`,
+          extra: `hosting!`,
+          url: `https://www.eventbrite.com/e/hush-hush-comedy-hour-tickets-734175036297?aff=ebdssbdestsearch`,
+          date: `03/11/2026`,
+          time: `8:00pm`
         },
 		  {
           	title: `<b>comedy at bourbon</b>`,
@@ -104,21 +226,22 @@ export default {
           	time: `8:00pm`
         },
 		  {
-          	title: `private show`,
-			date: `03/06/2026`,
-          	time: `7:00pm`
+          	title: `<b>that one stand up show</b> winnie's`,
+			  free: true,
+			url: `https://www.eventbrite.com/e/that-one-stand-up-show-at-winnies-tickets-1983881639388?aff=ebdssbdestsearch`,
+			  date: `03/05/2026`,
+          	time: `8:00pm`
         },
-		  
 		  {
-			  title: `<b>full five fridays</b> at stars & garters`,
-			  url: `https://www.instagram.com/fullfivefridayschicago/`,
-			  date: `03/06/26`,
-			  time: `9:00pm`
-		  },
+          	title: `<b>full five fridays</b> at stars & garters`,
+			url: `https://www.instagram.com/fullfivefridayschicago/`,
+			  date: `03/06/2026`,
+          	time: `9:00pm`
+        },
 		  {
           title: `<b>roast battle spring tournament (prelims)</b> at zanies chicago`,
           url: `https://roastbattlechicago.com/comedyshowtickets/9mdtrfg2knb7nd7-eh6jg-bna47-6blhc-9ahpj-y57sw-ty3ma-fmbxa-628ly-ea3zl`,
-          date: `03/05/2025`,
+          date: `03/05/2026`,
           time: `9:30pm`
         },
 		  {
