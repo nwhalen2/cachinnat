@@ -226,7 +226,7 @@ export default {
           	time: `8:00pm`
         },
 		  {
-          	title: `<b>that one stand up show</b> winnie's`,
+          	title: `<b>that one stand up show</b> at winnie's`,
 			  free: true,
 			url: `https://www.eventbrite.com/e/that-one-stand-up-show-at-winnies-tickets-1983881639388?aff=ebdssbdestsearch`,
 			  date: `03/05/2026`,
