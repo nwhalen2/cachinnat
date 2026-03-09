@@ -166,7 +166,7 @@ export default {
           time: `8:00pm`
         },
 		  {
-          title: `<b>la jara brewing co.<b> in norwalk, ca`,
+          title: `<b>la jara brewing co.</b> in norwalk, ca`,
           free: true,
 		  date: `04/02/2026`,
           time: `8:00pm (PST)`
@@ -218,6 +218,12 @@ export default {
           url: `https://www.eventbrite.com/e/hush-hush-comedy-hour-tickets-734175036297?aff=ebdssbdestsearch`,
           date: `03/11/2026`,
           time: `8:00pm`
+        },
+		  {
+          title: `<b>fuzzyline comedy hour</b> in highland, indiana`,
+			  extra: `$10 tickets`,
+          date: `03/10/2026`,
+          time: `7:00pm`
         },
 		  {
           	title: `<b>comedy at bourbon</b>`,
