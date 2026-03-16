@@ -166,23 +166,42 @@ export default {
           time: `8:00pm`
         },
 		  {
-          title: `<b>la jara brewing co.</b> in norwalk, ca`,
+			  title: `what could go wrong? at <b>laugh factory</b>`,
+			  url: `https://www.eventbrite.com/e/thursday-night-stand-up-comedy-at-laugh-factory-chicago-tickets-1983999945244?aff=oddtdtcreator`,
+			  date: `04/09/2026`,
+			  time: `8:00pm`
+		  },
+		  {
+          title: `stand up comedy at <b>la jara brewing</b> in norwalk, ca`,
+			  details: `*free*`,
           free: true,
 		  date: `04/02/2026`,
-          time: `8:00pm (PST)`
+          time: `8:00pm`
+        },
+		  {
+          title: `what type of standup? at <b>second city</b>`,
+		  url: `https://www.secondcity.com/shows/chicago/what-type-of-standup-chi`,
+          date: `03/22/2026`,
+          time: `8:30pm`
         },
 		  {
           title: `<b>casually funny</b> at the den theatre`,
-          extra: `<i>more details to come</i>`,
+		  url: `https://tickets.thedentheatre.com/event/comedy-you-deserve-casually-funny-3u78yg?_gl=1*lsgcw8*_ga*MTgyNzY3MTk5OS4xNzcyNjYyMDM3*_ga_KKZ24883X0*czE3NzM2OTMzODgkbzIkZzAkdDE3NzM2OTMzODgkajYwJGwwJGgxMTU1NzgxMzE5*_ga_T6SEPL0V6M*czE3NzM2OTMzODgkbzIkZzAkdDE3NzM2OTMzODgkajYwJGwwJGgw`,
           date: `04/04/2026`,
           time: `7:30pm`
         },
 		  {
-          title: `<b>comedy store<b>`,
+          title: `<b>comedy store<b> debut!`,
           extra: `stand up opener on roast battle`,
           url: `https://www.showclix.com/event/roast-battle-2026-march24th`,
           date: `03/31/2026`,
-          time: `10:30pm (PST)`
+          time: `10:30pm`
+        },
+		  {
+          title: `<b>roast battle san francisco</b> at cobb's comedy club`,
+          url: `https://www.ticketmaster.com/roast-battle-bay-area-san-francisco-california-03-29-2026/event/1C006434F97FFC87`,
+          date: `03/29/2026`,
+          time: `7:00pm`
         },
 		  {
           title: `<b>femme fest</b> in sacramento, ca`,
