@@ -70,6 +70,18 @@ export default {
           time: `8:00pm`
         },
 		  {
+          title: `cheers in <b>south bend, in</b>`,
+			  extra: `featuring for jay hunter`,
+          date: `07/25/2026`,
+          time: `8:00pm`
+        },
+		  {
+          title: `cheers in <b>south bend, in</b>`,
+			  extra: `hosting for jacob williams`,
+          date: `06/27/2026`,
+          time: `8:00pm`
+        },
+		  {
           title: `the <b>love below</b> comedy show at <b>beermiscuous</b>`,
           extra: `<i>every third thursday!</i>`,
           free: true,
