@@ -91,6 +91,13 @@ export default {
         },
 		  {
           title: `<b>crafted laughs</b><br/>in <b>lake geneva</b>, wi`,
+          free: true,
+          url: `https://www.instagram.com/crafted.laughs/`,
+          date: `10/24/2026`,
+          time: `8:00pm`
+        },
+		  {
+          title: `<b>crafted laughs</b><br/>in <b>lake geneva</b>, wi`,
           extra: `<i>select fridays in summer</i>`,
           free: true,
           url: `https://www.instagram.com/crafted.laughs/`,
