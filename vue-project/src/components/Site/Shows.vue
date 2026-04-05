@@ -46,6 +46,12 @@ export default {
 		numShown: 6,
       allShows: [
 		  {
+          	title: `<b>hammered herstory</b> at the lincoln lodge`,
+			url: `https://www.eventbrite.com/e/hammered-herstory-chicagos-funniest-drunk-comedy-storytelling-tickets-804226231307`,
+          	date: `11/01/2026`,
+          	time: `8:00pm`,
+        },
+		  {
           title: `the <b>love below</b> comedy show at <b>beermiscuous</b>`,
           extra: `<i>every third thursday!</i>`,
           free: true,
@@ -137,6 +143,19 @@ export default {
           time: `8:00pm`
         },
 		  {
+          title: `<b>roast battle</b> at zanies rosemont`,
+			  extra: `judging!`,
+          date: `06/28/2026`,
+          time: `8:30pm`,
+        },
+		  {
+          title: `<b>roast battle</b> at zanies rosemont`,
+			  extra: `natalie whalen vs. rich gomez`,
+          date: `05/31/2026`,
+          time: `8:30pm`,
+          url: `https://rosemont.zanies.com/show/roast-battle-23/zanies-comedy-club-rosemont/rosemont-illinois/`
+        },
+		  {
           title: `<b>crafted laughs</b><br/>in <b>lake geneva</b>, wi`,
           extra: `<i>select fridays in summer</i>`,
           free: true,
@@ -152,11 +171,25 @@ export default {
           date: `05/08/2026`,
           time: `8:00pm`
         },
-		  {
+		 /* {
           title: `stand up comedy at <b>blue goose</b>`,
           extra: `1205 n lake ave. twin lakes, wi`,
           date: `04/10/2026`,
           time: `9:00pm`
+        },*/
+		  {
+          title: `jokes on division at <b>butch mcquire's</b>`,
+		  url: `https://www.eventbrite.com/e/jokes-on-division-stand-up-comedy-showcase-tickets-1979839614583`,
+          free: true,
+          date: `06/01/2026`,
+          time: `9:00pm`
+        },
+		  {
+          title: `dj for chirp music trivia at <b>beermiscuous</b>`,
+			  extra: `bring a crew & test your music knowledge!`,
+          free: true,
+          date: `05/19/2026`,
+          time: `7:00pm`
         },
 		  {
           title: `<b>red room comedy club</b>`,
@@ -165,16 +198,33 @@ export default {
           time: `8:00pm`
         },
 		  {
-          title: `live comedy!! at <b>the bottle shop</b>`,
+          title: `live comedy at <b>the bottle shop</b>`,
           url: `https://thebottleshoplakegeneva.com/calendar/`,
           date: `05/02/2026`,
           time: `5:00pm`
         },
 		  {
-          title: `live comedy!! at <b>the bottle shop</b>`,
+          title: `live comedy at <b>the bottle shop</b>`,
           url: `https://thebottleshoplakegeneva.com/calendar/`,
           date: `05/02/2026`,
           time: `7:00pm`
+        },
+		  {
+          title: `open mic host at <b>red room comedy club</b>`,
+          date: `04/22/2026`,
+          time: `7:30pm`
+        },
+		  {
+          title: `<b>fresh faces</b><br/>at laugh factory`,
+          url: `https://www.eventbrite.com/e/tuesday-night-stand-up-comedy-at-laugh-factory-chicago-tickets-1983474378259?aff=oddtdtcreator`,
+          date: `04/21/2026`,
+          time: `7:30pm`
+        },
+		  {
+          title: `<b>hodgepodge comedy show</b> at my buddy's`,
+			url: `https://www.exploretock.com/mybuddys/event/588443?date=2026-04-05&size=1&time=19%3A00`,
+		  date: `04/19/2026`,
+          time: `8:00pm`
         },
 		  {
           title: `the <b>love below</b> comedy show at <b>beermiscuous</b>`,
@@ -184,6 +234,12 @@ export default {
           date: `04/16/2026`,
           time: `8:00pm`
         },
+		  {
+			  title: `<b>clock out comedy</b> at burton place`,
+			  free: true,
+			  date: `04/08/2026`,
+			  time: `8:00pm`
+		  },
 		  {
 			  title: `what could go wrong? at <b>laugh factory</b>`,
 			  url: `https://www.eventbrite.com/e/thursday-night-stand-up-comedy-at-laugh-factory-chicago-tickets-1983999945244?aff=oddtdtcreator`,
@@ -210,6 +266,13 @@ export default {
           time: `7:30pm`
         },
 		  {
+          title: `<b>roast bingo</b> at uptown taproom`,
+		  extra: `nat vs matt!`,
+          url: `https://www.instagram.com/p/DWrcbSqFCmW/?igsh=MTZiYno5ZWhnbDhmYQ==`,
+          date: `04/03/2026`,
+          time: `8:00pm`
+        },
+		  {
           title: `<b>comedy store<b> debut!`,
           extra: `stand up opener on roast battle`,
           url: `https://www.showclix.com/event/roast-battle-2026-march24th`,
@@ -228,6 +291,23 @@ export default {
           url: `https://saccomedyspot.vbotickets.com/event/femme_fest_2026_tickets/186689`,
           date: `03/28/2026`,
           time: `7:30pm`
+        },
+		  {
+          title: `dark & darker at <b>cobb's comedy club</b>`,
+          date: `03/27/2026`,
+          time: `10:00pm`
+        },
+		  {
+          title: `stand up at portal in <b>oakland, ca</b>`,
+          free: true,
+	      date: `03/26/2026`,
+          time: `8:00pm`
+        },
+		  {
+          title: `stand up at two pitcher's brewing in <b>oakland, ca</b>`,
+          free: true,
+	      date: `03/26/2026`,
+          time: `8:00pm`
         },
 		  {
           title: `<b>an iliad</b> at burton place`,
