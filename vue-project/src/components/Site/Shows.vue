@@ -172,6 +172,13 @@ export default {
           time: `8:00pm`
         },
 		 /* {
+          title: `what could go wrong? at <b>laugh factory</b>`,
+          extra: `first fridays`,
+          url: `https://laughfactorychicago.standuptix.com/events/what-could-go-wrong-4`,
+          date: `05/01/2026`,
+          time: `11:30pm`
+        },*/
+		 /* {
           title: `stand up comedy at <b>blue goose</b>`,
           extra: `1205 n lake ave. twin lakes, wi`,
           date: `04/10/2026`,
@@ -215,6 +222,13 @@ export default {
           time: `7:30pm`
         },
 		  {
+          title: `<b>daydrink show</b> at gaslight`,
+		  extra: `hosting!`,
+          url: `https://www.eventbrite.com/e/laugh-nite-comedy-showcase-at-gaslight-bar-tickets-1986847827336?aff=ebdssbcategorybrowse`,
+          date: `04/23/2026`,
+          time: `8:00pm`
+        },
+		  {
           title: `<b>fresh faces</b><br/>at laugh factory`,
           url: `https://www.eventbrite.com/e/tuesday-night-stand-up-comedy-at-laugh-factory-chicago-tickets-1983474378259?aff=oddtdtcreator`,
           date: `04/21/2026`,
@@ -241,8 +255,9 @@ export default {
 			  time: `8:00pm`
 		  },
 		  {
-			  title: `what could go wrong? at <b>laugh factory</b>`,
-			  url: `https://www.eventbrite.com/e/thursday-night-stand-up-comedy-at-laugh-factory-chicago-tickets-1983999945244?aff=oddtdtcreator`,
+			  title: `<b>laugh factory awards</b>`,
+			  extra: `hosting!`,
+			  url: `https://www.eventbrite.com/e/thursday-night-stand-up-comedy-at-laugh-factory-chicago-tickets-1983999945244?aff=ebdsoporgprofile&fbclid=IwY2xjawRCX_BleHRuA2FlbQIxMABicmlkETFOQWlWZ0tZdWNyMXA0MzFsc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHsAh0lnv3FjJP-jNnSxy6hLf1pf_6WXbJ8J3c3k_S0piWDLJ3c-pU9UUVCf1_aem__tzrEGRhV8FnpvvvjnVnrA`,
 			  date: `04/09/2026`,
 			  time: `8:00pm`
 		  },
