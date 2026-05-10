@@ -178,6 +178,12 @@ export default {
           date: `05/08/2026`,
           time: `8:00pm`
         },
+				{
+					title: 'crushes at aliveone',
+					url: 'https://www.aliveone.com/event-details/crushes-comedy-show-2026-05-10-20-30',
+					free: true,
+					time: '8:30pm',
+				},
 		 /* {
           title: `what could go wrong? at <b>laugh factory</b>`,
           extra: `first fridays`,
