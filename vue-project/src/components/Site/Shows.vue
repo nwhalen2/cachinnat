@@ -164,6 +164,13 @@ export default {
           time: `8:00pm`
         },
 		  {
+          title: `what could go wrong? at <b>laugh factory</b>`,
+          extra: `<i>go cubs go!</i>`,
+          url: `https://www.laughfactory.com/chicago`,
+          date: `05/14/26`,
+          time: `8:00pm`
+        },
+		  {
           title: `<b>crafted laughs</b><br/>in <b>lake geneva</b>, wi`,
           extra: `<i>select fridays in summer</i>`,
           free: true,
@@ -217,9 +224,21 @@ export default {
           time: `7:00pm`
         },
 		  {
+          title: `up n coming at <b>the second city</b>`,
+          url: `https://www.secondcity.com/shows/chicago?gad_source=1&gad_campaignid=23731527534&gbraid=0AAAAADoaGMNU6Bcue00rMD48ZvgqXFXsj&gclid=Cj0KCQjw2YDQBhD_ARIsAE1qeScIv7D1-qq8UivKhEsqsnEbx7N3CFYO64JraG2Q0QHKEmixpNogWMAaAr6KEALw_wcB`,
+          date: `04/17/2026`,
+          time: `7:30pm`
+        },
+		  {
           title: `open mic host at <b>red room comedy club</b>`,
           date: `04/22/2026`,
           time: `7:30pm`
+        },
+		  {
+          title: `vouch show at <b>the laugh factory</b>`,
+			  url: `https://comedygazelle.com/about-vouch`,
+          date: `04/26/2026`,
+          time: `8:00pm`
         },
 		  {
           title: `<b>daydrink show</b> at gaslight`,
