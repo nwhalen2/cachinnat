@@ -96,6 +96,12 @@ export default {
           time: `8:00pm`
         },
 		  {
+          title: `opening for mary mack at <b>the bend theatre</b>`,
+          url: `https://thebendwi.org/event/mary-mack-comedy/`,
+          date: `05/19/2026`,
+          time: `7:30pm`
+        },
+		  {
           title: `<b>crafted laughs</b><br/>in <b>lake geneva</b>, wi`,
           free: true,
           url: `https://www.instagram.com/crafted.laughs/`,
@@ -156,6 +162,27 @@ export default {
           url: `https://rosemont.zanies.com/show/roast-battle-23/zanies-comedy-club-rosemont/rosemont-illinois/`
         },
 		  {
+          title: `<b>lost arts show</b> at lost hours coffee shop`,
+			  url: `https://www.instagram.com/lostartsshow/`,
+          free: true,
+          date: `06/18/2026`,
+          time: `7:00pm`
+        },
+		  {
+          title: `<b>tight ship</b> comedy at half sour`,
+          free: true,
+          date: `06/25/2026`,
+          time: `8:00pm`,
+          url: `https://www.instagram.com/tightshipcomedy/?hl=en`
+        },
+		  
+		  {
+          title: `<b>small world bar & grill</b> on 106th st`,
+          free: true,
+          date: `05/20/2026`,
+          time: `8:00pm`
+        },
+		  {
           title: `<b>crafted laughs</b><br/>in <b>lake geneva</b>, wi`,
           extra: `<i>select fridays in summer</i>`,
           free: true,
@@ -169,6 +196,12 @@ export default {
           url: `https://www.laughfactory.com/chicago`,
           date: `05/14/26`,
           time: `8:00pm`
+        },
+		  {
+          title: `opening for call it a night show at <b>second city</b>`,
+          url: `https://www.secondcity.com/shows/chicago/the-call-it-a-night-show-chi`,
+          date: `05/14/26`,
+          time: `8:30pm`
         },
 		  {
           title: `<b>crafted laughs</b><br/>in <b>lake geneva</b>, wi`,
