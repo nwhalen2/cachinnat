@@ -98,7 +98,7 @@ export default {
 		  {
           title: `opening for mary mack at <b>the bend theatre</b>`,
           url: `https://thebendwi.org/event/mary-mack-comedy/`,
-          date: `05/19/2026`,
+          date: `05/15/2026`,
           time: `7:30pm`
         },
 		  {
