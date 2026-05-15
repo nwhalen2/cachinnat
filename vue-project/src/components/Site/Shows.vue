@@ -191,18 +191,18 @@ export default {
           time: `8:00pm`
         },
 		  {
-          title: `what could go wrong? at <b>laugh factory</b>`,
-          extra: `<i>go cubs go!</i>`,
-          url: `https://www.laughfactory.com/chicago`,
-          date: `05/14/26`,
-          time: `8:00pm`
-        },
+			  title: `what could go wrong? at <b>laugh factory</b>`,
+			  extra: `go cubs go!`,
+			  url: `https://www.laughfactory.com/chicago`,
+			  date: `05/14/26`,
+			  time: `8:00pm`
+		  },
 		  {
-          title: `opening for call it a night show at <b>second city</b>`,
-          url: `https://www.secondcity.com/shows/chicago/the-call-it-a-night-show-chi`,
-          date: `05/14/26`,
-          time: `8:30pm`
-        },
+			  title: `opening for call it a night at <b>second city</b>`,
+			  url: `https://www.secondcity.com/shows/chicago/the-call-it-a-night-show-chi`,
+			  date: `05/14/26`,
+			  time: `8:30pm`
+		  },
 		  {
           title: `<b>crafted laughs</b><br/>in <b>lake geneva</b>, wi`,
           extra: `<i>select fridays in summer</i>`,
