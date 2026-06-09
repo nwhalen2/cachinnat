@@ -76,9 +76,21 @@ export default {
           time: `8:00pm`
         },
 		  {
+          title: `<b>buckets</b> at burton place (hosting)`,
+          free: true,
+          date: `06/08/2026`,
+          time: `7:00pm`
+        },
+		  {
           title: `cheers in <b>south bend, in</b>`,
 			  extra: `featuring for jay hunter`,
           date: `07/25/2026`,
+          time: `8:00pm`
+        },
+		  {
+          title: `<b>the vixen</b> in mchenry, il`,
+			  extra: `hosting!`,
+          date: `07/22/2026`,
           time: `8:00pm`
         },
 		  {
@@ -154,6 +166,20 @@ export default {
           date: `06/28/2026`,
           time: `8:30pm`,
         },
+		  {
+			  title: `what could go wrong? at <b>laugh factory</b>`,
+			  extra: `catch us busking on broadway before the show!`,
+			  url: `https://www.laughfactory.com/chicago`,
+			  date: `07/10/26`,
+			  time: `11:00pm`
+		  },
+		  {
+			  title: `what could go wrong? at <b>laugh factory</b>`,
+			  extra: `happy pride!`,
+			  url: `https://www.eventbrite.com/e/thursday-night-stand-up-comedy-at-laugh-factory-chicago-tickets-1988510440256`,
+			  date: `06/11/26`,
+			  time: `8:00pm`
+		  },
 		  {
           title: `<b>roast battle</b> at zanies rosemont`,
 			  extra: `natalie whalen vs. rich gomez`,
@@ -236,6 +262,13 @@ export default {
           free: true,
           date: `06/01/2026`,
           time: `9:00pm`
+        },
+		  {
+          	title: `<b>blind wolf comedy</b> in lakeview`,
+          	url: `https://www.instagram.com/blindwolfcomedy`,
+          	free: true,
+			date: `07/08/2026`,
+          	time: `8:30pm`
         },
 		  {
           title: `dj for chirp music trivia at <b>beermiscuous</b>`,
@@ -1166,6 +1199,12 @@ export default {
           free: true,
           url: `https://www.instagram.com/thelovebelowcomedyshow/`,
           date: `06/19/2025`,
+          time: `8:00pm`
+        },
+		  {
+          title: `<b>the vixen</b> in mchenry, il`,
+			  extra: `guestie`,
+          date: `06/11/2025`,
           time: `8:00pm`
         },
         {
