@@ -59,6 +59,20 @@ export default {
           date: `08/20/2026`,
           time: `8:00pm`
         },
+		  {
+          title: `perfect comedy every time at <b>madison's</b>`,
+          extra: `(madison comedy week)`,
+          url: `https://madisoncomedyweek.com`,
+          date: `08/08/2026`,
+          time: `8:00pm`
+        },
+		  {
+          title: `standup standouts at <b>gamma ray</b>`,
+          extra: `(madison comedy week)`,
+          url: `https://madisoncomedyweek.com`,
+          date: `08/07/2026`,
+          time: `7:30pm`
+        },
 		   {
           title: `the <b>love below</b> comedy show at <b>beermiscuous</b>`,
           extra: `<i>every third thursday!</i>`,
@@ -169,9 +183,9 @@ export default {
 		  {
 			  title: `what could go wrong? at <b>laugh factory</b>`,
 			  extra: `catch us busking on broadway before the show!`,
-			  url: `https://www.laughfactory.com/chicago`,
+			  url: `https://www.laughfactory.com/chicago/date/2026-07-10`,
 			  date: `07/10/26`,
-			  time: `11:00pm`
+			  time: `11:30pm`
 		  },
 		  {
 			  title: `what could go wrong? at <b>laugh factory</b>`,
