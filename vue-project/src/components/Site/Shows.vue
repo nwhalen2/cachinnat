@@ -273,6 +273,7 @@ export default {
 				{
 					title: 'crushes at aliveone',
 					url: 'https://www.aliveone.com/event-details/crushes-comedy-show-2026-05-10-20-30',
+					date: `05/10/26`,
 					free: true,
 					time: '8:30pm',
 				},
