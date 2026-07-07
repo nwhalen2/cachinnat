@@ -204,7 +204,6 @@ export default {
 			  extra: `hosting!`,
 			  url: `https://www.laughfactory.com/chicago/date/2026-07-10`,
 			  date: `07/09/26`,
-			  time: `11:30pm`
 		  },
 		  {
 			  title: `what could go wrong? at <b>laugh factory</b>`,
