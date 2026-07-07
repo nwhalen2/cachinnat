@@ -48,7 +48,13 @@ export default {
 		  {
           	title: `<b>hammered herstory</b> at the lincoln lodge`,
 			url: `https://www.eventbrite.com/e/hammered-herstory-chicagos-funniest-drunk-comedy-storytelling-tickets-804226231307`,
-          	date: `11/01/2026`,
+          	date: `12/06/2026`,
+          	time: `8:00pm`,
+        },
+		  {
+          	title: `<b>hammered herstory</b> at the lincoln lodge`,
+			url: `https://www.eventbrite.com/e/hammered-herstory-chicagos-funniest-drunk-comedy-storytelling-tickets-804226231307`,
+          	date: `10/04/2026`,
           	time: `8:00pm`,
         },
 		  {
@@ -57,6 +63,18 @@ export default {
           free: true,
           url: `https://www.instagram.com/thelovebelowcomedyshow/`,
           date: `08/20/2026`,
+          time: `8:00pm`
+        },
+		  {
+          title: `comedy showcase at the <b>barrel cheese & wine</b>`,
+			  free: true,
+          date: `08/06/2026`,
+          time: `8:00pm`
+        },
+		  {
+          title: `<b>hush hush</b> comedy hour at the <b>lincoln lodge</b>`,
+          url: `https://www.eventbrite.com/e/hush-hush-comedy-hour-tickets-734175036297?aff=ebdssbdestsearch`,
+          date: `08/05/2026`,
           time: `8:00pm`
         },
 		  {
@@ -177,12 +195,13 @@ export default {
 		  {
           title: `<b>roast battle</b> at zanies rosemont`,
 			  extra: `judging!`,
-          date: `06/28/2026`,
+			  url: `https://www.etix.com/ticket/p/63562493/roast-battle-rosemont-zanies-rosemont?partner_id=100&_gl=1*1wxfnju*_ga*MTI4MDU2NDIwMC4xNzgzNDI2MzY4*_ga_DBEL6KZ540*czE3ODM0MjYzNjgkbzEkZzEkdDE3ODM0MjYzNzYkajUyJGwwJGgxMDgyOTU5MzEx*_ga_1WZSC8T3N2*czE3ODM0MjYzNjgkbzEkZzEkdDE3ODM0MjYzNzYkajUyJGwwJGgw`,
+          date: `07/26/2026`,
           time: `8:30pm`,
         },
 		  {
 			  title: `what could go wrong? at <b>laugh factory</b>`,
-			  extra: `catch us busking on broadway before the show!`,
+			  extra: `hosting!`,
 			  url: `https://www.laughfactory.com/chicago/date/2026-07-10`,
 			  date: `07/10/26`,
 			  time: `11:30pm`
@@ -278,12 +297,13 @@ export default {
           time: `9:00pm`
         },
 		  {
-          	title: `<b>blind wolf comedy</b> in lakeview`,
-          	url: `https://www.instagram.com/blindwolfcomedy`,
-          	free: true,
-			date: `07/08/2026`,
-          	time: `8:30pm`
-        },
+			  title: `camped out comedy at <b>the drunken bean</b>`,
+			  free: true,
+			  extra: `new start time - 6:30`,
+			  url: `https://www.drunkenbeancafe.com/events/laughs-by-the-campfire`,
+			  date: `07/08/26`,
+			  time: `6:30pm`
+		  },
 		  {
           title: `dj for chirp music trivia at <b>beermiscuous</b>`,
 			  extra: `bring a crew & test your music knowledge!`,
