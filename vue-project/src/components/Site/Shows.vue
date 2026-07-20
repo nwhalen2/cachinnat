@@ -84,7 +84,7 @@ export default {
           time: `8:00pm`
         },
 		  {
-          title: `<b>uptown lounge/b>`,
+          title: `<b>uptown lounge</b>`,
           date: `08/19/2026`,
           time: `8:00pm`
         },
