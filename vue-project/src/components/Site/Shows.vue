@@ -52,10 +52,28 @@ export default {
           	time: `8:00pm`,
         },
 		  {
+          title: `<b>clock that tea</b> at uptown taproom`,
+			  extra: `what will she reveal about her past?`,
+			  free: true,
+          date: `10/22/2026`,
+          time: `8:00pm`
+        },
+		  {
           	title: `<b>hammered herstory</b> at the lincoln lodge`,
 			url: `https://www.eventbrite.com/e/hammered-herstory-chicagos-funniest-drunk-comedy-storytelling-tickets-804226231307`,
           	date: `10/04/2026`,
           	time: `8:00pm`,
+        },
+		  {
+          title: `<b>second city</b>`,
+          date: `08/31/2026`,
+          time: `7:30pm`
+        },
+		  {
+          title: `comedy festival at river rock in kankakee, il`,
+			  extra: 	`closing it out with mason bird`,
+          date: `08/29/2026`,
+          time: `noon-midnight`
         },
 		  {
           title: `the <b>love below</b> comedy show at <b>beermiscuous</b>`,
@@ -65,6 +83,24 @@ export default {
           date: `08/20/2026`,
           time: `8:00pm`
         },
+		  {
+          title: `<b>uptown lounge/b>`,
+          date: `08/19/2026`,
+          time: `8:00pm`
+        },
+		  {
+          title: `<b>red room comedy club</b>`,
+			  extra: `hosting!`,
+			  url: `https://www.redroomcomedyclub.com/events/red-room-comedy-2026-08-15-19-30`,
+          date: `08/15/2026`,
+          time: `7:30pm`
+        },
+		  {
+			  title: `what could go wrong? at <b>laugh factory</b>`,
+			  url: `https://www.laughfactory.com/chicago/date/2026-08-13`,
+			  date: `08/13/26`,
+			  time: `8:00pm`
+		  },
 		  {
           title: `comedy showcase at the <b>barrel cheese & wine</b>`,
 			  free: true,
@@ -91,6 +127,19 @@ export default {
           date: `08/07/2026`,
           time: `7:30pm`
         },
+		  {
+          title: `<b>what a night</b> at burton place`,
+          free: true,
+          date: `07/27/2026`,
+          time: `9:00pm`
+        },
+		  {
+          title: `<b>buckets</b> at burton place`,
+			  extra: `hosting!`,
+          free: true,
+          date: `07/20/2026`,
+          time: `7:00pm`
+        },
 		   {
           title: `the <b>love below</b> comedy show at <b>beermiscuous</b>`,
           extra: `<i>every third thursday!</i>`,
@@ -98,6 +147,33 @@ export default {
           url: `https://www.instagram.com/thelovebelowcomedyshow/`,
           date: `07/16/2026`,
           time: `8:00pm`
+        },
+		  {
+          title: `<b>clean comedy</b> at porter county 4-h fair`,
+			  url: `https://portercountyfair.com`,
+          date: `07/29/2026`,
+          time: `8:00pm`
+        },
+		  {
+          title: `<b>heckler's happy hour</b> at the lincoln lodge`,
+			  url: `https://hecklershappyhour.com/`,
+          date: `08/01/2026`,
+          time:`6:00pm`
+        },
+		  {
+          title: `<b>corny's comedy club</b> at red zone in dyer, in`,
+          date: `08/30/2026`,
+          time: `7:00pm`
+        },
+		  {
+          title: `<b>corny's comedy club</b> at time out bar & grill`,
+          date: `06/20/2026`,
+          time: `7:00pm`
+        },
+		  {
+          title: `<b>corny's comedy club</b>`,
+          date: `03/10/2026`,
+          time: `7:00pm`
         },
 		  {
           title: `the <b>love below</b> comedy show at <b>beermiscuous</b>`,
@@ -115,12 +191,14 @@ export default {
         },
 		  {
           title: `cheers in <b>south bend, in</b>`,
+			  url: `https://www.eventbrite.com/e/1-year-anniversary-show-with-jay-hunter-tickets-1992670403819?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=wsa&aff=ebdsshwebmobile`,
 			  extra: `featuring for jay hunter`,
           date: `07/25/2026`,
           time: `8:00pm`
         },
 		  {
           title: `<b>the vixen</b> in mchenry, il`,
+			  free: true,
 			  extra: `hosting!`,
           date: `07/22/2026`,
           time: `8:00pm`
@@ -203,6 +281,7 @@ export default {
 			  title: `what could go wrong? at <b>laugh factory</b>`,
 			  extra: `hosting!`,
 			  url: `https://www.laughfactory.com/chicago/date/2026-07-10`,
+			  time: `11:00pm`,
 			  date: `07/09/26`,
 		  },
 		  {
