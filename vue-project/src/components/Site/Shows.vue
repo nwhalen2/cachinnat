@@ -249,7 +249,7 @@ export default {
 		  {
           title: `super six at <b>zanies</b>`,
           url: `https://www.etix.com/ticket/p/37918616/super-six-showcase-chicago-zanies-chicago?partner_id=100&_gl=1*19p27n4*_ga*MTU2MDE0NTg3OC4xNzg0NjY2MDA0*_ga_LQB756CETN*czE3ODQ2NjYwMDMkbzEkZzEkdDE3ODQ2NjYwMjkkajM0JGwwJGg0MjI3NzE4Mjk.`,
-          date: `08/06/2026`,
+          date: `08/04/2026`,
           time: `7:00pm`
         },
 		  {
