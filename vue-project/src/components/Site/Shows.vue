@@ -52,6 +52,12 @@ export default {
           	time: `8:00pm`,
         },
 		  {
+			  title: `what could go wrong? at <b>laugh factory</b>`,
+			  url: `https://www.laughfactory.com/chicago/date/2026-09-10`,
+			  date: `09/10/26`,
+			  time: `8:00pm`
+		  },
+		  {
           title: `<b>clock that tea</b> at uptown taproom`,
 			  extra: `what will she reveal about her past?`,
 			  free: true,
@@ -65,9 +71,34 @@ export default {
           	time: `8:00pm`,
         },
 		  {
+          	title: `tight pants comedy at <b>punchline philly</b>`,
+			url: `https://www.ticketmaster.com/tight-pants-comedy-philadelphia-pennsylvania-10-01-2026/event/020064C6F69CA49E?fbclid=PAVERFWATxa-RwZG9mAmZkaWQWUMt103p5NWMOmI9X05_dmVNOMSXypGV4dG4DYWVtAjEwAHNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABp6kdPe_Avigfh0Cg9Vy9zXDLlkP6Yz80Y6MirJHw7oRXTNwEujRnPhOSqvml_aem_SDUarYn2Ze73_XWJcrPuoA`,
+          	date: `10/01/2026`,
+          	time: `7:30pm`,
+        },
+		  {
+          title: `<b>choppin' in up</b>`,
+			  extra: `hosting`,
+          date: `09/26/2026`,
+          time: `8:00pm`
+        },
+		  {
           title: `<b>second city</b>`,
           date: `08/31/2026`,
           time: `7:30pm`
+        },
+		  {
+          title: `chicago's funniest at <b>fat willy's</b> comedy club`,
+			  url: `https://www.eventbrite.com/e/chicagos-funniest-comedians-tickets-1996319258642?aff=ebdssbdestsearch&utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAdGRleATxabVwZG9mAmZkaWQWUMviQ1NArSYDEnk_Seg9zTyw8t-61GV4dG4DYWVtATEAc3J0YwZhcHBfaWQPMTI0MDI0NTc0Mjg3NDE0AAGniXSUlaS8tacwiydX_EQjm71lIkJtzcLHJDaKKpHaM1K4J05SFiNvKymroUw_aem_LEkVsF_iZSc4FM_Mol7ryA`,
+          date: `08/23/2026`,
+          time: `7:00pm`
+        },
+		  {
+          title: `comedy at <b>reggie's</b> rock club`,
+          free: true,
+          date: `08/25/2026`,
+          time: `7:00pm`,
+          url: `https://www.reggieslive.com/2026/08/?post_type=show`
         },
 		  {
           title: `comedy festival at river rock in kankakee, il`,
@@ -80,20 +111,57 @@ export default {
           extra: `<i>every third thursday!</i>`,
           free: true,
           url: `https://www.instagram.com/thelovebelowcomedyshow/`,
-          date: `08/20/2026`,
+          date: `10/15/2026`,
           time: `8:00pm`
         },
 		  {
+          title: `feat. for <b>brendan sagalow</b> in battle creek, mi`,
+          date: `09/09/2026`,
+          time: `7:30pm`
+        },
+		  {
+          title: `<b>one liner madness</b> at io theater`,
+          date: `10/14/2026`,
+          time: `8:00pm`
+        },
+		  {
+          title: `<b>one liner madness</b> at duck foot brewing co`,
+			  extra: `<b>san diego!</b>`,
+          date: `09/19/2026`,
+          time: `8:00pm`
+        },
+		  {
+          title: `the <b>love below</b> comedy show at <b>beermiscuous</b>`,
+          extra: `<i>every third thursday!</i>`,
+          free: true,
+          url: `https://www.instagram.com/thelovebelowcomedyshow/`,
+          date: `09/17/2026`,
+          time: `8:00pm`
+        },
+		  {
+          title: `the <b>love below</b> comedy show at <b>beermiscuous</b>`,
+          extra: `<i>every third thursday!</i>`,
+          free: true,
+          url: `https://www.instagram.com/thelovebelowcomedyshow/`,
+          date: `08/20/2026`,
+          time: `8:00pm`
+        },
+		  /*{
           title: `<b>uptown lounge</b>`,
           date: `08/19/2026`,
           time: `8:00pm`
-        },
+        },*/
 		  {
           title: `<b>red room comedy club</b>`,
 			  extra: `hosting!`,
 			  url: `https://www.redroomcomedyclub.com/events/red-room-comedy-2026-08-15-19-30`,
           date: `08/15/2026`,
           time: `7:30pm`
+        },
+		  {
+          title: `clean comedy in <b>michigan city</b>`,
+          date: `08/15/2026`,
+          time: `2:00pm`
         },
 		  {
 			  title: `what could go wrong? at <b>laugh factory</b>`,
@@ -677,7 +745,7 @@ export default {
 		  {
           title: `comedy at <b>reggie's</b> rock club`,
           free: true,
-          date: `01/26/2025`,
+          date: `01/26/2026`,
           time: `7:00pm`,
           url: `https://www.reggieslive.com/2026/01/?post_type=show`
         },
