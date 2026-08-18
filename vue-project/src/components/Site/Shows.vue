@@ -83,6 +83,12 @@ export default {
           time: `8:00pm`
         },
 		  {
+          title: `<b>dine out on broadway</b>`,
+			  extra: `what could go wrong?`,
+          date: `08/22/2026`,
+          time: `7:30pm`
+        },
+		  {
           title: `<b>second city</b>`,
           date: `08/31/2026`,
           time: `7:30pm`
