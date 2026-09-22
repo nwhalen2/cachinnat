@@ -157,7 +157,7 @@ export default {
         },
 		  {
           title: `kilowatt brewing`,
-			  extra: `<b>san diego!</b>
+			  extra: `<b>san diego!</b>`,
           date: `09/18/2026`,
           time: `10:00pm`
         },
