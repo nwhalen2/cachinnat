@@ -90,7 +90,7 @@ export default {
           time: `8:00pm`
         },
 		  {
-          title: `<b>corporate-friendly comedy</b> at fabrik coworking space`,
+          title: `<b>corporate-friendly comedy</b> at fabrik`,
 			  url: `https://luma.com/dv14exhl`,
           date: `09/22/2026`,
           time: `7:00pm`
