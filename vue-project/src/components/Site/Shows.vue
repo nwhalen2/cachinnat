@@ -77,10 +77,23 @@ export default {
           	time: `7:30pm`,
         },
 		  {
+          title: `<b>roast battle</b> at zanies rosemont`,
+			  extra: `vs. steven baer`,
+			  url: `https://www.etix.com/ticket/p/91157182/roast-battle-rosemont-zanies-rosemont?partner_id=100`,
+          date: `09/27/2026`,
+          time: `8:30pm`,
+        },
+		  {
           title: `<b>choppin' in up</b>`,
 			  extra: `hosting`,
           date: `09/26/2026`,
           time: `8:00pm`
+        },
+		  {
+          title: `<b>corporate-friendly comedy</b> at fabrik coworking space`,
+			  url: `https://luma.com/dv14exhl`,
+          date: `09/22/2026`,
+          time: `7:00pm`
         },
 		  {
           title: `<b>dine out on broadway</b>`,
@@ -122,7 +135,7 @@ export default {
         },
 		  {
           title: `feat. for <b>brendan sagalow</b> in battle creek, mi`,
-          date: `09/09/2026`,
+          date: `10/09/2026`,
           time: `7:30pm`
         },
 		  {
@@ -134,6 +147,23 @@ export default {
           title: `<b>one liner madness</b> at duck foot brewing co`,
 			  extra: `<b>san diego!</b>`,
           date: `09/19/2026`,
+          time: `8:00pm`
+        },
+		  {
+          title: `quantum brewing`,
+			  extra: `<b>san diego!</b>`,
+          date: `09/18/2026`,
+          time: `7:30pm`
+        },
+		  {
+          title: `kilowatt brewing`,
+			  extra: `<b>san diego!</b>
+          date: `09/18/2026`,
+          time: `10:00pm`
+        },
+		  {
+          title: `<b>laugh factory san diego</b>`,
+          date: `09/18/2026`,
           time: `8:00pm`
         },
 		  {
