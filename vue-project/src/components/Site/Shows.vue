@@ -145,19 +145,19 @@ export default {
         },
 		  {
           title: `<b>one liner madness</b> at duck foot brewing co`,
-			  extra: `<b>san diego!</b>`,
+			  extra: `san diego!`,
           date: `09/19/2026`,
           time: `8:00pm`
         },
 		  {
           title: `quantum brewing`,
-			  extra: `<b>san diego!</b>`,
+			  extra: `san diego!`,
           date: `09/18/2026`,
           time: `7:30pm`
         },
 		  {
           title: `kilowatt brewing`,
-			  extra: `<b>san diego!</b>`,
+			  extra: `san diego!`,
           date: `09/18/2026`,
           time: `10:00pm`
         },
