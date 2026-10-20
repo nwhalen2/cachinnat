@@ -64,38 +64,38 @@ export default {
 		  {
 			  title: `what could go wrong? at <b>laugh factory</b>`,
 			  url: `https://www.laughfactory.com/chicago/date/2027-01-07`,
-			  date: `01/07/26`,
+			  date: `01/07/2026`,
 			  time: `8:00pm`
 		  },
 		  {
 			  title: `what could go wrong? at <b>laugh factory</b>`,
 			  url: `https://www.laughfactory.com/chicago/date/2026-12-10`,
-			  date: `12/10/26`,
+			  date: `12/10/2026`,
 			  time: `8:00pm`
 		  },
 		  {
 			  title: `what could go wrong? at <b>laugh factory</b>`,
 			  url: `https://www.laughfactory.com/chicago/date/2026-11-12`,
-			  date: `11/12/26`,
+			  date: `11/12/2026`,
 			  time: `8:00pm`
 		  },
 		  {
 			  title: `<b>chiquita scoops</b> comedy show`,
 			  url: `https://www.eventbrite.com/e/chiquita-scoops-comedy-show-tickets-2002358568380?utm_experiment=test_share_listing&aff=ebdsshios&sg=6a4ff4006405092fa8ab3499a80234dff6d462268d6a10ffcd3db5d51e849246757937c4c89351ff9bd35157c3c6ecc9bb20824155cb7ec7f8c02fda7aad44c4ea3b3b60104facfb52c862001b96&utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAdGRleAVEa1FleHRuA2FlbQIxMQBwZG9mAmZkaWQWUQojquDSY_5wCRyNJ7du4o8hTkNM5HNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABp_jllehCHLzKHBbWv8gK5tu94lBvgYq0b7k6Sn3k4uhaCwdejT4DoYeOJyaV_aem_Jov__ITBjnnKTumiGVQOXQ`,
-			  date: `10/30/26`,
+			  date: `10/30/2026`,
 			  time: `7:00pm`
 		  },
 		  {
 			  title: `<b>cornys comedy</b> at byway brewing`,
 			  url: `https://www.cornyscomedyclub.com/`,
-			  date: `10/29/26`,
+			  date: `10/29/2026`,
 			  time: `6:30pm`
 		  },
 		  {
 			  title: `olga namer at <b>zanies chicago</b>`,
 			  extra: `hosting!`,
 			  url: `https://www.etix.com/ticket/p/48867222/olga-namer-special-event-chicago-zanies-chicago?partner_id=100&_gl=1*1b5pf2q*_ga*MTU2MDE0NTg3OC4xNzg0NjY2MDA0*_ga_LQB756CETN*czE3OTI1MTA2MTAkbzUkZzEkdDE3OTI1MTA2MTQkajU2JGwwJGgxNjAyMjI2MTIy`,
-			  date: `10/25/26`,
+			  date: `10/25/2026`,
 			  time: `7:00pm`
 		  },
 		  {
@@ -103,25 +103,25 @@ export default {
 			  free: true,
 			  extra: `live taping for OFTV`,
 			  url: `https://tickets.thedentheatre.com/event/lmaof-11pw8f?_gl=1*1bqm1za*_ga*MTc1NjYyMzcwNC4xNzkyNTEwMzgw*_ga_KKZ24883X0*czE3OTI1MTAzODAkbzEkZzEkdDE3OTI1MTA3NzckajUwJGwwJGgxMzEzMTc4MTM.*_ga_T6SEPL0V6M*czE3OTI1MTAzODAkbzEkZzEkdDE3OTI1MTA3NzckajUwJGwwJGgw`,
-			  date: `10/20/26`,
+			  date: `10/20/2026`,
 			  time: `8:00pm`
 		  },
 		  {
 			  title: `<b>new joke tuesday</b> at fat willy's`,
 			  free: true,
-			  date: `10/06/26`,
+			  date: `10/06/2026`,
 			  time: `8:00pm`
 		  },
 		  {
 			  title: `what could go wrong? at <b>laugh factory</b>`,
 			  url: `https://www.laughfactory.com/chicago/date/2026-10-08`,
-			  date: `10/08/26`,
+			  date: `10/08/2026`,
 			  time: `8:00pm`
 		  },
 		  {
 			  title: `what could go wrong? at <b>laugh factory</b>`,
 			  url: `https://www.laughfactory.com/chicago/date/2026-09-10`,
-			  date: `09/10/26`,
+			  date: `09/10/2026`,
 			  time: `8:00pm`
 		  },
 		  {
@@ -270,7 +270,7 @@ export default {
 		  {
 			  title: `what could go wrong? at <b>laugh factory</b>`,
 			  url: `https://www.laughfactory.com/chicago/date/2026-08-13`,
-			  date: `08/13/26`,
+			  date: `08/13/2026`,
 			  time: `8:00pm`
 		  },
 		  {
@@ -460,13 +460,13 @@ export default {
 			  extra: `hosting!`,
 			  url: `https://www.laughfactory.com/chicago/date/2026-07-10`,
 			  time: `11:00pm`,
-			  date: `07/09/26`,
+			  date: `07/09/2026`,
 		  },
 		  {
 			  title: `what could go wrong? at <b>laugh factory</b>`,
 			  extra: `happy pride!`,
 			  url: `https://www.eventbrite.com/e/thursday-night-stand-up-comedy-at-laugh-factory-chicago-tickets-1988510440256`,
-			  date: `06/11/26`,
+			  date: `06/11/2026`,
 			  time: `8:00pm`
 		  },
 		  {
@@ -509,13 +509,13 @@ export default {
 			  title: `what could go wrong? at <b>laugh factory</b>`,
 			  extra: `go cubs go!`,
 			  url: `https://www.laughfactory.com/chicago`,
-			  date: `05/14/26`,
+			  date: `05/14/2026`,
 			  time: `8:00pm`
 		  },
 		  {
 			  title: `opening for call it a night at <b>second city</b>`,
 			  url: `https://www.secondcity.com/shows/chicago/the-call-it-a-night-show-chi`,
-			  date: `05/14/26`,
+			  date: `05/14/2026`,
 			  time: `8:30pm`
 		  },
 		  {
@@ -529,7 +529,7 @@ export default {
 				{
 					title: 'crushes at aliveone',
 					url: 'https://www.aliveone.com/event-details/crushes-comedy-show-2026-05-10-20-30',
-					date: `05/10/26`,
+					date: `05/10/2026`,
 					free: true,
 					time: '8:30pm',
 				},
@@ -558,7 +558,7 @@ export default {
 			  free: true,
 			  extra: `new start time - 6:30`,
 			  url: `https://www.drunkenbeancafe.com/events/laughs-by-the-campfire`,
-			  date: `07/08/26`,
+			  date: `07/08/2026`,
 			  time: `6:30pm`
 		  },
 		  {
@@ -794,7 +794,7 @@ export default {
 		  {
           title: `throwdown the gauntlet <b>judging</b> at o'donnell's`,
           free: true,
-			date: `02/20/26`,
+			date: `02/20/2026`,
           time: `7:30pm`
         },
 		  {
@@ -816,7 +816,7 @@ export default {
 			  title: `camped out comedy at <b>the drunken bean</b>`,
 			  free: true,
 			  url: `https://www.instagram.com/p/DOT-hegkqdB/?igsh=NGl5d3h5enltcjZ4`,
-			  date: `02/11/26`,
+			  date: `02/11/2026`,
 			  time: `7:30pm`
 		  },
 		  {
