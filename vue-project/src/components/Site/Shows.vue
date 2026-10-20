@@ -127,6 +127,7 @@ export default {
 		  {
           title: `<b>clock that tea</b> at uptown taproom`,
 			  extra: `what will she reveal about her past?`,
+			  url: `https://www.eventbrite.com/e/clock-that-tea-a-storytelling-show-tickets-2001937481899`,
 			  free: true,
           date: `10/22/2026`,
           time: `8:00pm`
