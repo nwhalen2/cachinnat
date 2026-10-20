@@ -26,6 +26,11 @@ export default {
                     name: `linkedin-icon`,
                     icon: `linkedin`,
                     url: `https://www.linkedin.com/in/natalie-n-whalen/`,
+                },
+                {
+                    name: `fan-icon`,
+                    icon: `fan`,
+                    url: `https://onlyfans.com/u565518890`,
                 }
             ]
         }
