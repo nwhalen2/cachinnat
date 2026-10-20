@@ -46,11 +46,78 @@ export default {
 		numShown: 6,
       allShows: [
 		  {
-          	title: `<b>hammered herstory</b> at the lincoln lodge`,
-			url: `https://www.eventbrite.com/e/hammered-herstory-chicagos-funniest-drunk-comedy-storytelling-tickets-804226231307`,
-          	date: `12/06/2026`,
-          	time: `8:00pm`,
+          title: `the <b>love below</b> comedy show at <b>beermiscuous</b>`,
+          extra: `<i>every third thursday!</i>`,
+          free: true,
+          url: `https://www.instagram.com/thelovebelowcomedyshow/`,
+          date: `01/21/2027`,
+          time: `8:00pm`
         },
+		  {
+          title: `the <b>love below</b> comedy show at <b>beermiscuous</b>`,
+          extra: `<i>every third thursday!</i>`,
+          free: true,
+          url: `https://www.instagram.com/thelovebelowcomedyshow/`,
+          date: `11/19/2026`,
+          time: `8:00pm`
+        },
+		  {
+			  title: `what could go wrong? at <b>laugh factory</b>`,
+			  url: `https://www.laughfactory.com/chicago/date/2027-01-07`,
+			  date: `01/07/26`,
+			  time: `8:00pm`
+		  },
+		  {
+			  title: `what could go wrong? at <b>laugh factory</b>`,
+			  url: `https://www.laughfactory.com/chicago/date/2026-12-10`,
+			  date: `12/10/26`,
+			  time: `8:00pm`
+		  },
+		  {
+			  title: `what could go wrong? at <b>laugh factory</b>`,
+			  url: `https://www.laughfactory.com/chicago/date/2026-11-12`,
+			  date: `11/12/26`,
+			  time: `8:00pm`
+		  },
+		  {
+			  title: `<b>chiquita scoops</b> comedy show`,
+			  url: `https://www.eventbrite.com/e/chiquita-scoops-comedy-show-tickets-2002358568380?utm_experiment=test_share_listing&aff=ebdsshios&sg=6a4ff4006405092fa8ab3499a80234dff6d462268d6a10ffcd3db5d51e849246757937c4c89351ff9bd35157c3c6ecc9bb20824155cb7ec7f8c02fda7aad44c4ea3b3b60104facfb52c862001b96&utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAdGRleAVEa1FleHRuA2FlbQIxMQBwZG9mAmZkaWQWUQojquDSY_5wCRyNJ7du4o8hTkNM5HNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABp_jllehCHLzKHBbWv8gK5tu94lBvgYq0b7k6Sn3k4uhaCwdejT4DoYeOJyaV_aem_Jov__ITBjnnKTumiGVQOXQ`,
+			  date: `10/30/26`,
+			  time: `7:00pm`
+		  },
+		  {
+			  title: `<b>cornys comedy</b> at byway brewing`,
+			  url: `https://www.cornyscomedyclub.com/`,
+			  date: `10/29/26`,
+			  time: `6:30pm`
+		  },
+		  {
+			  title: `olga namer at <b>zanies chicago</b>`,
+			  extra: `hosting!`,
+			  url: `https://www.etix.com/ticket/p/48867222/olga-namer-special-event-chicago-zanies-chicago?partner_id=100&_gl=1*1b5pf2q*_ga*MTU2MDE0NTg3OC4xNzg0NjY2MDA0*_ga_LQB756CETN*czE3OTI1MTA2MTAkbzUkZzEkdDE3OTI1MTA2MTQkajU2JGwwJGgxNjAyMjI2MTIy`,
+			  date: `10/25/26`,
+			  time: `7:00pm`
+		  },
+		  {
+			  title: `<b>LMAOF</b> at the den theatre`,
+			  free: true,
+			  extra: `live taping for OFTV`,
+			  url: `https://tickets.thedentheatre.com/event/lmaof-11pw8f?_gl=1*1bqm1za*_ga*MTc1NjYyMzcwNC4xNzkyNTEwMzgw*_ga_KKZ24883X0*czE3OTI1MTAzODAkbzEkZzEkdDE3OTI1MTA3NzckajUwJGwwJGgxMzEzMTc4MTM.*_ga_T6SEPL0V6M*czE3OTI1MTAzODAkbzEkZzEkdDE3OTI1MTA3NzckajUwJGwwJGgw`,
+			  date: `10/20/26`,
+			  time: `8:00pm`
+		  },
+		  {
+			  title: `<b>new joke tuesday</b> at fat willy's`,
+			  free: true,
+			  date: `10/06/26`,
+			  time: `8:00pm`
+		  },
+		  {
+			  title: `what could go wrong? at <b>laugh factory</b>`,
+			  url: `https://www.laughfactory.com/chicago/date/2026-10-08`,
+			  date: `10/08/26`,
+			  time: `8:00pm`
+		  },
 		  {
 			  title: `what could go wrong? at <b>laugh factory</b>`,
 			  url: `https://www.laughfactory.com/chicago/date/2026-09-10`,
