@@ -48,6 +48,6 @@ export default {
     color: pink
 }
 .fan-icon {
-    color: turqoise
+    color: blue
 }
 </style>
