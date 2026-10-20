@@ -47,4 +47,7 @@ export default {
 .youtube-icon {
     color: pink
 }
+.fan-icon {
+    color: turqoise
+}
 </style>
