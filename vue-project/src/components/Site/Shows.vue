@@ -68,10 +68,22 @@ export default {
 			  time: `8:00pm`
 		  },
 		  {
+			  title: `schtick at <b>schubas</b>`,
+			  free: true,
+			  date: `12/16/2026`,
+			  time: `8:00pm`
+		  },
+		  {
 			  title: `what could go wrong? at <b>laugh factory</b>`,
 			  url: `https://www.laughfactory.com/chicago/date/2026-12-10`,
 			  date: `12/10/2026`,
 			  time: `8:00pm`
+		  },
+		  {
+			  title: `hosting open mic at <b>color club</b>`,
+			  free: true,
+			  date: `11/20/2026`,
+			  time: `10:00pm`
 		  },
 		  {
 			  title: `what could go wrong? at <b>laugh factory</b>`,
@@ -90,6 +102,13 @@ export default {
 			  url: `https://www.cornyscomedyclub.com/`,
 			  date: `10/29/2026`,
 			  time: `6:30pm`
+		  },
+		  {
+			  title: `<b>comic court</b> at the <b>lincoln lodge</b>`,
+			  extra: `arguing scary costumes > sexy ones`,
+			  url: `https://www.eventbrite.com/e/comic-court-chicagos-1-comedy-court-show-tickets-1998956577935`,
+			  date: `10/27/2026`,
+			  time: `9:00pm`
 		  },
 		  {
 			  title: `olga namer at <b>zanies chicago</b>`,
