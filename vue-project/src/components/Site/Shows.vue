@@ -92,13 +92,29 @@ export default {
 			  time: `8:00pm`
 		  },
 		  {
+			  title: `<b>death trap</b> at a comic shop (1632 n milwaukee ave)`,
+			  extra: `comics in a comic shop!`,
+			  free: true,
+			  date: `11/11/2026`,
+			  time: `7:00pm`
+		  },
+		  {
+          title: `<b>take a shot</b> at my buddy's`,
+          extra: `judge & performer`,
+          free: true,
+          url: `https://www.instagram.com/takeashotopenmic/`,
+          date: `11/08/2026`,
+          time: `9:00pm`
+        },
+		  {
           title: `<b>hush hush</b> at the <b>lincoln lodge</b>`,
           url: `https://www.eventbrite.com/e/hush-hush-comedy-hour-tickets-734175036297?aff=ebdssbdestsearch`,
           date: `11/04/2026`,
           time: `8:00pm`
         },
 		  {
-			  title: `<b>chiquita scoops</b> comedy show`,
+			  title: `<s><b>chiquita scoops</b> comedy show</s>`,
+			  extra: `<i>cancelled</i>`,
 			  url: `https://www.eventbrite.com/e/chiquita-scoops-comedy-show-tickets-2002358568380?utm_experiment=test_share_listing&aff=ebdsshios&sg=6a4ff4006405092fa8ab3499a80234dff6d462268d6a10ffcd3db5d51e849246757937c4c89351ff9bd35157c3c6ecc9bb20824155cb7ec7f8c02fda7aad44c4ea3b3b60104facfb52c862001b96&utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAdGRleAVEa1FleHRuA2FlbQIxMQBwZG9mAmZkaWQWUQojquDSY_5wCRyNJ7du4o8hTkNM5HNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABp_jllehCHLzKHBbWv8gK5tu94lBvgYq0b7k6Sn3k4uhaCwdejT4DoYeOJyaV_aem_Jov__ITBjnnKTumiGVQOXQ`,
 			  date: `10/30/2026`,
 			  time: `7:00pm`
